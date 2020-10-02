@@ -1,7 +1,7 @@
 package start
 
 import (
-	"ChannelReply/utils"
+	"TGChannelGo/utils"
 	"github.com/PaulSonOfLars/gotgbot"
 	"github.com/PaulSonOfLars/gotgbot/ext"
 	"github.com/PaulSonOfLars/gotgbot/handlers"

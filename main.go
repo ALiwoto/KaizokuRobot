@@ -1,13 +1,13 @@
 package main
 
 import (
-	"ChannelReply/handlers/add"
-	"ChannelReply/handlers/getchats"
-	"ChannelReply/handlers/help"
-	"ChannelReply/handlers/remove"
-	"ChannelReply/handlers/send"
-	"ChannelReply/handlers/start"
-	"ChannelReply/utils"
+	"TGChannelGo/handlers/add"
+	"TGChannelGo/handlers/getchats"
+	"TGChannelGo/handlers/help"
+	"TGChannelGo/handlers/remove"
+	"TGChannelGo/handlers/send"
+	"TGChannelGo/handlers/start"
+	"TGChannelGo/utils"
 	"github.com/PaulSonOfLars/gotgbot"
 	"github.com/PaulSonOfLars/gotgbot/ext"
 	"go.uber.org/zap"

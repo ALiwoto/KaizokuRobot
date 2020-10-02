@@ -1,7 +1,7 @@
 package send
 
 import (
-	"ChannelReply/utils"
+	"TGChannelGo/utils"
 	"bytes"
 	"fmt"
 	"github.com/PaulSonOfLars/gotg_md2html"

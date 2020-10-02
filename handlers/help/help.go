@@ -1,7 +1,7 @@
 package help
 
 import (
-	"ChannelReply/utils"
+	"TGChannelGo/utils"
 	"fmt"
 	"github.com/PaulSonOfLars/gotgbot"
 	"github.com/PaulSonOfLars/gotgbot/ext"

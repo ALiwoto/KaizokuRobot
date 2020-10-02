@@ -1,0 +1,14 @@
+{
+  "bot_token": "",
+  "sudo_users": [
+    123,
+    123
+  ],
+  "owner_id": 123,
+  "channel_id": -123,
+  "chats_to_monitor": [
+    -123,
+    -123,
+    -123
+  ]
+}

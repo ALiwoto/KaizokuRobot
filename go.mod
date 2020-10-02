@@ -1,4 +1,4 @@
-module smartass08/TGChannelGo
+module github.com/smartass08/TGChannelGo
 
 go 1.15
 

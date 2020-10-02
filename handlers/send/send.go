@@ -54,8 +54,35 @@ func GetImage(b ext.Bot, u *gotgbot.Update) ([]byte, string) {
 	return dat, name
 }
 
+func ReplaeLinks(b ext.Bot,  button []tg_md2html.Button) []tg_md2html.Button {
+	var rtbutton []tg_md2html.Button
+	for _, v := range button {
+		lol := tg_md2html.Button{
+			Name:    v.Name,
+			Content:  v.Content,
+			SameLine: v.SameLine,
+		}
+		if strings.HasPrefix(v.Content, "*") {
+			id := strings.Split(v.Content, "*")[1]
+			intId, err := strconv.Atoi(id)
+			if err != nil {
+				continue
+			}
+			chat, _ := b.GetChat(intId)
+			if len(chat.InviteLink) < 0 {
+				_, _ = chat.ExportInviteLink()
+			}
+			lol.Content = chat.InviteLink
+		}
+		rtbutton = append(rtbutton, lol)
+	}
+	return rtbutton
+}
+
 func SendHandler(b ext.Bot, u *gotgbot.Update) error {
-	var chat int
+	var postlink bool
+	postlink = false
+	var chat, group int
 	var text string
 	message := u.EffectiveMessage.Text
 	if u.EffectiveChat.Id != u.EffectiveUser.Id {
@@ -71,23 +98,46 @@ func SendHandler(b ext.Bot, u *gotgbot.Update) error {
 	text = html
 
 	if strings.HasSuffix(message, "}") {
+		postlink = false
 		mssg := strings.Split(message, "{")
 		label := (strings.Split(mssg[len(mssg)-2], "}"))[0]
-		group, _ := strconv.Atoi(strings.Split((strings.Split(mssg[len(mssg)-1], "{"))[0], "}")[0])
+		groupStr := strings.Split((strings.Split(mssg[len(mssg)-1], "{"))[0], "}")[0]
+
+		if strings.HasPrefix(groupStr, "*") {
+			lol, err := strconv.Atoi(strings.Split(groupStr, "*")[1])
+			postlink = true
+			if err != nil {
+				postlink = false
+			}
+			group = lol
+		} else {
+			group, _ = strconv.Atoi(strings.Split((strings.Split(mssg[len(mssg)-1], "{"))[0], "}")[0])
+			postlink = false
+		}
+
 		chat, err := b.GetChat(group)
+
 		if err != nil {
-			_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "Can't get the invite link of the respected chat you mentioned, Please double check your chat/channel id you mentioned", u.Message.MessageId)
+			_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "Can't get the information of the respected chat you mentioned, Please double check your chat/channel id you mentioned", u.Message.MessageId)
 			return err
 		}
-		if len(chat.InviteLink) == 0 {
-			_, err = chat.ExportInviteLink()
-			if err != nil {
-				_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "Can't get the invite link of the respected chat you mentioned, Please give me permission to generate invite links", u.Message.MessageId)
+
+		if postlink {
+			if len(chat.InviteLink) == 0 {
+				_, err = chat.ExportInviteLink()
+				if err != nil {
+					_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "Can't get the invite link of the respected chat you mentioned, Please give me permission to generate invite links", u.Message.MessageId)
+				}
 			}
+			add := fmt.Sprintf("[%v](buttonurl:%v)", label, chat.InviteLink)
+			html, btn = tg_md2html.MD2HTMLButtons(strings.Split(strings.SplitAfter(message, utils.GetSendCommand())[1], "{")[0] + "\n" + add)
+			btn = ReplaeLinks(b, btn)
+			text = "<b>" + chat.Title + "</b>" + "\n\n" + fmt.Sprintf("<code>%v</code>", chat.Id) + "\n\n" + html
+		}else{
+			html, btn = tg_md2html.MD2HTMLButtons(strings.Split(strings.SplitAfter(message, utils.GetSendCommand())[1], "{")[0])
+			text = "<b>" + chat.Title + "</b>" + "\n\n" + fmt.Sprintf("<code>%v</code>", chat.Id) + "\n\n" + html
+			btn = ReplaeLinks(b,  btn)
 		}
-		add := fmt.Sprintf("[%v](buttonurl:%v)", label, chat.InviteLink)
-		html, btn = tg_md2html.MD2HTMLButtons(strings.Split(strings.SplitAfter(message, utils.GetSendCommand())[1], "{")[0] + "\n" + add)
-		text = "<b>" + chat.Title + "</b>" + "\n\n" + fmt.Sprintf("<code>%v</code>", chat.Id) + "\n\n" + html
 	}
 
 	if u.EffectiveMessage.ReplyToMessage != nil && u.EffectiveMessage.ReplyToMessage.Photo != nil {

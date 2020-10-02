@@ -13,6 +13,7 @@ import (
 )
 
 const ConfigJsonPath string = "config.json"
+const CommandConfigPath = "commands.json"
 
 var letters = []rune("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ")
 
@@ -24,7 +25,31 @@ type ConfigJson struct {
 	Monitor    []int  `json:"chats_to_monitor"`
 }
 
+type CommandJson struct {
+	START    string `json:"start"`
+	HELP     string `json:"help"`
+	GETCHATS string `json:"getchats"`
+	ADD      string `json:"add"`
+	REMOVE   string `json:"remove"`
+	SEND     string `json:"send"`
+}
+
+var CommandConfig *CommandJson = InitCommandConfig()
 var Config *ConfigJson = InitConfig()
+
+func InitCommandConfig() *CommandJson {
+	file, err := ioutil.ReadFile(CommandConfigPath)
+	if err != nil {
+		log.Fatal("Config File Bad, exiting!")
+	}
+
+	var Config CommandJson
+	err = json.Unmarshal([]byte(file), &Config)
+	if err != nil {
+		log.Fatal(err)
+	}
+	return &Config
+}
 
 func InitConfig() *ConfigJson {
 	file, err := ioutil.ReadFile(ConfigJsonPath)
@@ -191,4 +216,26 @@ func IsChatInJson(chatID int) bool {
 	}
 	InitConfig()
 	return false
+}
+
+func GetStartCommand() string {
+	return CommandConfig.START
+}
+
+func GetHelpCommand() string {
+	return CommandConfig.HELP
+}
+func GetGetChatsCommand() string {
+	return CommandConfig.GETCHATS
+}
+func GetSendCommand() string {
+	return CommandConfig.SEND
+}
+
+func GetAddCommand() string {
+	return CommandConfig.ADD
+}
+
+func GetRemoveCommand() string {
+	return CommandConfig.REMOVE
 }

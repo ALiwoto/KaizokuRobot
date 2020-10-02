@@ -67,7 +67,7 @@ func SendHandler(b ext.Bot, u *gotgbot.Update) error {
 		}
 	}
 
-	html, btn := tg_md2html.MD2HTMLButtons(strings.SplitAfter(message, "/send")[1])
+	html, btn := tg_md2html.MD2HTMLButtons(strings.SplitAfter(message, utils.GetSendCommand())[1])
 	text = html
 
 	if strings.HasSuffix(message, "}") {
@@ -86,7 +86,7 @@ func SendHandler(b ext.Bot, u *gotgbot.Update) error {
 			}
 		}
 		add := fmt.Sprintf("[%v](buttonurl:%v)", label, chat.InviteLink)
-		html, btn = tg_md2html.MD2HTMLButtons(strings.Split(strings.SplitAfter(message, "/send")[1], "{")[0] + "\n" + add)
+		html, btn = tg_md2html.MD2HTMLButtons(strings.Split(strings.SplitAfter(message, utils.GetSendCommand())[1], "{")[0] + "\n" + add)
 		text = "<b>" + chat.Title + "</b>" + "\n\n" + fmt.Sprintf("<code>%v</code>", chat.Id) + "\n\n" + html
 	}
 
@@ -125,5 +125,5 @@ func SendHandler(b ext.Bot, u *gotgbot.Update) error {
 
 func LoadSendHandler(updater *gotgbot.Updater, l *zap.SugaredLogger) {
 	defer l.Info("Send Module Loaded.")
-	updater.Dispatcher.AddHandler(handlers.NewCommand("send", SendHandler))
+	updater.Dispatcher.AddHandler(handlers.NewCommand(utils.GetSendCommand(), SendHandler))
 }

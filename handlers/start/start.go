@@ -9,9 +9,6 @@ import (
 )
 
 func StartHandler(b ext.Bot, u *gotgbot.Update) error {
-	if u.EffectiveChat.Id != u.EffectiveUser.Id {
-		return nil
-	}
 	if !utils.IsUserOwner(u.EffectiveUser.Id) {
 		if !utils.IsUserSudo(u.EffectiveUser.Id) {
 			return nil
@@ -24,5 +21,5 @@ func StartHandler(b ext.Bot, u *gotgbot.Update) error {
 
 func LoadStartHandler(updater *gotgbot.Updater, l *zap.SugaredLogger) {
 	defer l.Info("Start Module Loaded.")
-	updater.Dispatcher.AddHandler(handlers.NewCommand("start", StartHandler))
+	updater.Dispatcher.AddHandler(handlers.NewCommand(utils.GetStartCommand(), StartHandler))
 }

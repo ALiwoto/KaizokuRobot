@@ -32,5 +32,5 @@ func GetChats(b ext.Bot, u *gotgbot.Update) error {
 
 func LoadGetChatsHandler(updater *gotgbot.Updater, l *zap.SugaredLogger) {
 	defer l.Info("GetChats Module Loaded.")
-	updater.Dispatcher.AddHandler(handlers.NewCommand("getchats", GetChats))
+	updater.Dispatcher.AddHandler(handlers.NewCommand(utils.GetGetChatsCommand(), GetChats))
 }

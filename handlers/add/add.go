@@ -16,7 +16,7 @@ func AddHandler(b ext.Bot, u *gotgbot.Update) error {
 		_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "This command is sudo only", u.EffectiveMessage.MessageId)
 		return nil
 	}
-	id := strings.Split(u.Message.Text, "/add ")[1]
+	id := strings.Split(u.Message.Text, utils.GetAddCommand()+" ")[1]
 	int_id, err := strconv.Atoi(id)
 	if err != nil {
 		_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "Can't parse the given id, Please check it again", u.EffectiveMessage.MessageId)
@@ -37,5 +37,5 @@ func AddHandler(b ext.Bot, u *gotgbot.Update) error {
 
 func LoadAddHandler(updater *gotgbot.Updater, l *zap.SugaredLogger) {
 	defer l.Info("Start Module Loaded.")
-	updater.Dispatcher.AddHandler(handlers.NewCommand("add", AddHandler))
+	updater.Dispatcher.AddHandler(handlers.NewCommand(utils.GetAddCommand(), AddHandler))
 }

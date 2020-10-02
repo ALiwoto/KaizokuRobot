@@ -3,6 +3,7 @@ package main
 import (
 	"ChannelReply/handlers/add"
 	"ChannelReply/handlers/getchats"
+	"ChannelReply/handlers/help"
 	"ChannelReply/handlers/remove"
 	"ChannelReply/handlers/send"
 	"ChannelReply/handlers/start"
@@ -22,6 +23,7 @@ func RegisterAllHandlers(updater *gotgbot.Updater, l *zap.SugaredLogger) {
 	getchats.LoadGetChatsHandler(updater, l)
 	add.LoadAddHandler(updater, l)
 	remove.LoadRemoveHandler(updater, l)
+	help.LoadHelpHandler(updater, l)
 }
 
 func main() {

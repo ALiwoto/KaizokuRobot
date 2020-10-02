@@ -1,0 +1,8 @@
+{
+  "start": "start",
+  "help": "help",
+  "getchats": "getchats",
+  "add": "add",
+  "remove": "remove",
+  "send": "send"
+}

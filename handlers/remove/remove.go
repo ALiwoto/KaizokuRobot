@@ -16,7 +16,7 @@ func RemoveHandler(b ext.Bot, u *gotgbot.Update) error {
 		_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "This command is sudo only", u.EffectiveMessage.MessageId)
 		return nil
 	}
-	id := strings.Split(u.Message.Text, "/remove ")[1]
+	id := strings.Split(u.Message.Text, utils.GetRemoveCommand()+" ")[1]
 	int_id, err := strconv.Atoi(id)
 	if err != nil {
 		_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "Can't parse the given id, Please check it again", u.EffectiveMessage.MessageId)
@@ -37,5 +37,5 @@ func RemoveHandler(b ext.Bot, u *gotgbot.Update) error {
 
 func LoadRemoveHandler(updater *gotgbot.Updater, l *zap.SugaredLogger) {
 	defer l.Info("Start Module Loaded.")
-	updater.Dispatcher.AddHandler(handlers.NewCommand("remove", RemoveHandler))
+	updater.Dispatcher.AddHandler(handlers.NewCommand(utils.GetRemoveCommand(), RemoveHandler))
 }

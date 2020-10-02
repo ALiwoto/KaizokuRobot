@@ -14,7 +14,7 @@ Yet another channel poster bot to send messages with buttons and other formattin
 
 * Supports buttons using your norm `[label](buttonurl:urlhere)`.
  
-* Mentioning `{lable}{-id}` where -id is chat/channel id will pull information about it (Name, -Id)and post it with message.
+* Mentioning `{lable}{-id}` in last line of message where -id is chat/channel id will pull information about it (Name, -Id)and post it with message.
 * Also supports `{label}{*-id}`which is same as above but will post a button too with chatlink of the chat's or channel's id with label as its text.
 * You can even mention `*-id` inside any `buttonurl:` and bot will fetch the id's invite link and use that as url.
 * Reply to any image while sending the message and bot will send the message as a caption to the image to the channel.

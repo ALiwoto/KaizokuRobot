@@ -163,6 +163,7 @@ func SendHandler(b ext.Bot, u *gotgbot.Update) error {
 		msg := b.NewSendableMessage(utils.GetChannelId(), text)
 		msg.ReplyMarkup = &ext.InlineKeyboardMarkup{InlineKeyboard: &buttons}
 		msg.ParseMode = "HTML"
+		msg.DisableWebPreview = true
 		_, err := msg.Send()
 		if err == nil {
 			_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "Message sent successfully!", u.EffectiveMessage.MessageId)

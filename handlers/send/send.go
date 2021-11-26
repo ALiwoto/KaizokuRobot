@@ -4,15 +4,16 @@ import (
 	"TGChannelGo/utils"
 	"bytes"
 	"fmt"
-	"github.com/PaulSonOfLars/gotg_md2html"
-	"github.com/PaulSonOfLars/gotgbot"
-	"github.com/PaulSonOfLars/gotgbot/ext"
-	"github.com/PaulSonOfLars/gotgbot/handlers"
-	"go.uber.org/zap"
 	"io/ioutil"
 	"os"
 	"strconv"
 	"strings"
+
+	tg_md2html "github.com/PaulSonOfLars/gotg_md2html"
+	"github.com/PaulSonOfLars/gotgbot"
+	"github.com/PaulSonOfLars/gotgbot/ext"
+	"github.com/PaulSonOfLars/gotgbot/handlers"
+	"go.uber.org/zap"
 )
 
 func MakeKeyboards(button []tg_md2html.Button) [][]ext.InlineKeyboardButton {
@@ -54,11 +55,11 @@ func GetImage(b ext.Bot, u *gotgbot.Update) ([]byte, string) {
 	return dat, name
 }
 
-func ReplaeLinks(b ext.Bot,  button []tg_md2html.Button) []tg_md2html.Button {
+func ReplaeLinks(b ext.Bot, button []tg_md2html.Button) []tg_md2html.Button {
 	var rtbutton []tg_md2html.Button
 	for _, v := range button {
 		lol := tg_md2html.Button{
-			Name:    v.Name,
+			Name:     v.Name,
 			Content:  v.Content,
 			SameLine: v.SameLine,
 		}
@@ -133,13 +134,27 @@ func SendHandler(b ext.Bot, u *gotgbot.Update) error {
 			html, btn = tg_md2html.MD2HTMLButtons(strings.Split(strings.SplitAfter(message, utils.GetSendCommand())[1], "{")[0] + "\n" + add)
 			btn = ReplaeLinks(b, btn)
 			text = "<b>" + chat.Title + "</b>" + "\n\n" + fmt.Sprintf("<code>%v</code>", chat.Id) + "\n\n" + html
-		}else{
+		} else {
 			html, btn = tg_md2html.MD2HTMLButtons(strings.Split(strings.SplitAfter(message, utils.GetSendCommand())[1], "{")[0])
 			text = "<b>" + chat.Title + "</b>" + "\n\n" + fmt.Sprintf("<code>%v</code>", chat.Id) + "\n\n" + html
-			btn = ReplaeLinks(b,  btn)
+			btn = ReplaeLinks(b, btn)
 		}
 	}
 
+	torep := ""
+
+	if p, f := utils.GetStringInBetweenTwoString(message, "####", "$$$$"); f {
+		rq := b.NewSendablePhoto(utils.GetChannelId(), "")
+		rq.Photo = b.NewFileURL(p)
+		rq.ParseMode = "HTML"
+		msg, _ := rq.Send()
+		chat = msg.MessageId
+		torep = "####" + p + "$$$$"
+	}
+
+	if torep != "" {
+		text = strings.ReplaceAll(text, torep, "")
+	}
 	if u.EffectiveMessage.ReplyToMessage != nil && u.EffectiveMessage.ReplyToMessage.Photo != nil {
 		image, name := GetImage(b, u)
 		lol := b.NewSendablePhoto(utils.GetChannelId(), "")

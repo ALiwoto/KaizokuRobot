@@ -525,7 +525,7 @@ Bots:
 *Type:* #SFW #Channel #Anime #Logs #News
 [👾 Discord](buttonurl:https://discord.animekaizoku.com)
 [💬 Group](buttonurl://t.me/AnimeKaizoku:same)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/6db764a94920971c8712a.jpg:imageend}
 {🖥 Kaizoku • Releases}{*-1001104466476}
 
@@ -535,7 +535,7 @@ Join here for fun trivia collected from around the network.
 
 *Type:* #SFW #Channel #OT #Trivia
 [💬 Join Group](buttonurl://t.me/AnimeKaizoku)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/4f8da724dd4e95d18bbcf.jpg:imageend}
 {💀 Join Kaizoku • Weird}{*-1001108093859}
 
@@ -544,7 +544,7 @@ Join here for fun trivia collected from around the network.
 
 *Type:* #SFW #Channel #Gifs
 [📹 Base Group](buttonurl://t.me/AnimeKaizoku)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/b0155c94b22e7a546ac77.jpg:imageend}
 {📸 Kaizoku • Gifs}{*-1001410507921}
 
@@ -553,7 +553,7 @@ Join here for fun trivia collected from around the network.
 
 *Type:* #SFW #Channel #Memes
 [🎲 Base Group](buttonurl://t.me/GamingKaizoku)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/34a746b154e770dc1a02c.jpg:imageend}
 {🙃 Kaizoku • Memes}{*-1001166159076}
 
@@ -571,7 +571,7 @@ Join here for fun trivia collected from around the network.
 
 *Type:* #Music #Channel
 [🎵 Group chat](buttonurl://t.me/MusicKaizoku)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/fc4c331e33a9bb56c62fe.jpg:imageend}
 {🎷 Kaizoku • Ongaku}{*-1001404868775}
 
@@ -580,7 +580,7 @@ Join here for fun trivia collected from around the network.
 
 *Type:* #SFW #English #Gaming #Channel #Minecraft #Public
 [💬 Group chat](buttonurl://t.me/MinecraftKaizoku)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/86fb4fd0d7fe965220951.jpg:imageend}
 {📦 Kaizoku • Minecraft Builds}{*-1001350463701}
 
@@ -590,7 +590,7 @@ Join here for fun trivia collected from around the network.
 Welcome to the right place to give your relationship a flamboyant touch.
 
 *Type:* #Channel #SFW #Art #Couple
-[☠️ Network](buttonurl://t.me/Kaizoku/4:same)
+[☠️ Network](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/77089e575087695ba1478.jpg:imageend}
 {💞 Kaizoku • Paired pfps}{*-1001584782751}
 
@@ -599,7 +599,7 @@ Welcome to the right place to give your relationship a flamboyant touch.
 
 *Type:* #Logs #Channel
 [💬 Group chat](buttonurl://t.me/AnimeKaizoku)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/167a280cc315286bafc33.jpg:imageend}
 {📔 Kaizoku • Logs}{*-1001464563480}
 
@@ -615,7 +615,7 @@ The group is the main central group around Kaizoku, anything from OT to anime go
 _Kaizoku ou ni, ore wa naru_
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001089592372)
 [👾](buttonurl:https://discord.animekaizoku.com:same)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/3a3fc416efded793819e1.jpg:imageend}
 {☠️ Kaizoku • Anime}{*-1001089592372}
 
@@ -624,7 +624,7 @@ _Kaizoku ou ni, ore wa naru_
 
 *Type:* #SFW #English #Gaming #Group #Werewolf #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001434232459)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/de03ccaa732cd9d9c90d7.jpg:imageend}
 {🎲 Kaizoku • Gaming}{*-1001434232459}
 
@@ -635,7 +635,7 @@ _Kaizoku ou ni, ore wa naru_
 
 *Type:* #NSFW #English #Hentai #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001426830158)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/af260f8abdb51a3ba76be.jpg:imageend}
 {🏩 Kaizoku • Hentai}{*-1001426830158}
 
@@ -644,7 +644,7 @@ _Kaizoku ou ni, ore wa naru_
 
 *Type:* #SFW #English #Gaming #Group #UNO #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001481829510)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/57c6fdf07dd620a164ee0.jpg:imageend}
 {🃏 Kaizoku • UNO}{*-1001481829510}
 
@@ -653,7 +653,7 @@ _Kaizoku ou ni, ore wa naru_
 
 *Type:* #SFW #Group #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001197011294)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/444e81b481fca196e029e.jpg:imageend}
 {👤 Kaizoku • Confessions}{*-1001197011294}
 
@@ -662,7 +662,7 @@ _Kaizoku ou ni, ore wa naru_
 
 *Type:* #SFW #English #Gaming #Group #Minecraft #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001294709112)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/f22aa68634a37aedcab3c.jpg:imageend}
 {📦 Kaizoku • Minecraft}{*-1001294709112}
 
@@ -672,7 +672,7 @@ To those who understand the above sentence we invite you to our music group, to 
 
 *Type:* #SFW #English #Music #Group #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001276708931)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/39afb619ea4d5c1c54444.jpg:imageend}
 {🎧 Kaizoku • Music}{*-1001276708931}
 
@@ -682,7 +682,7 @@ To those who understand the above sentence we invite you to our music group, to 
 Comes with 10 second user-bot auto delete to wipe the bot messages.
 *Type:* #SFW #Bots #Group #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001453374889)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/d30eaced86e310ffd688e.jpg:imageend}
 {🤖 Kaizoku • Connect Bots}{*-1001453374889}
 
@@ -692,7 +692,7 @@ If you get hurt easily then this is not the group for you.
 
 *Type:* #SFW #Off-Topic #Group #Public #Blunt
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001425609381)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/1eb2b2a61f382ba5f423a.jpg:imageend}
 {🎃 Kaizoku • Intemperate}{*-1001425609381}
 
@@ -704,7 +704,7 @@ If you get hurt easily then this is not the group for you.
 Type: #SFW #Bots #Support #Public
 
 [❕ Rules](buttonurl://t.me/SaitamaRobot?start=-1001138194012)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 [📋 Bot's List](buttonurl://https://t.me/Kaizoku/7:same)
 {image:https://telegra.ph/file/1eb2b2a61f382ba5f423a.jpg:imageend}
 {🤖 Kaizoku • Bot's Support}{*-1001138194012}
@@ -717,7 +717,7 @@ If you use @SaitamaRobot in your group then we urge you to join this channel.
 
 *Type:* #SFW #Channel #Bots #Logs #News
 [💬 Group](buttonurl://t.me/OnePunchSupport)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/1fb6343e6f7c68fa7f39c.jpg:imageend}
 {✨ Join Saitama Updates}{*-1001415012591}
 
@@ -727,7 +727,7 @@ If you use @SaitamaRobot in your group then we urge you to join this channel.
 
 *Type:* #Logs #Channel
 [💬 Group](buttonurl://t.me/OnePunchSupport)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/c905600cb0103e85ed687.jpg:imageend}
 {📓 Saitama Global Logs}{*-1001190805354}
 
@@ -737,7 +737,7 @@ This channel strictly holds experimental data for the development version of the
 
 *Type:* #Logs #Channel
 [💬 Group](buttonurl://t.me/OnePunchDev)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/2ce343ec225b40fb5008f.jpg:imageend}
 {📓 Shiken Global Logs}{*-1001300439833}
 
@@ -746,7 +746,7 @@ This channel strictly holds experimental data for the development version of the
 
 *Type:* #Logs #Channel
 [💬 Group](buttonurl://t.me/OnePunchSupport)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/603fc009c665648848e21.jpg:imageend}
 {📓 Heroes Association • Logs}{*-1001182747927}
 
@@ -758,7 +758,7 @@ Please don't come asking help on your fork, Saitama related queries only.
 
 *Type:* #SFW #Group #Bots #Support #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001408942668)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/032bd8508cea11d23445d.jpg:imageend}
 {🆘 Join Saitama Support}{*-1001408942668}
 
@@ -769,7 +769,7 @@ Please don't come asking help on your fork, Saitama related queries only.
 
 *Type:* #SFW #Group #Bots #Dev #Public
 [📓 Rules](buttonurl://t.me/SaitamaShikenRobot?start=-1001230319386)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/78fe85b7aaed5c6e88e18.jpg:imageend}
 {👨🏼‍💻 Join Dev Chat}{*-1001230319386}
 
@@ -780,7 +780,7 @@ If you use @AllMightRobot in your group then we urge you to join this channel.
 
 *Type:* #SFW #Channel #Bots #Logs #News
 [💬 Group](buttonurl://t.me/OneForAllSupport)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/7eac3a65973f8af6b7682.jpg:imageend}
 {✨ Join All Might Updates}{*-1001267000506}
 
@@ -793,7 +793,7 @@ Please don't come asking help on your fork, All Might related queries only.
 
 *Type:* #SFW #Group #Bots #Support #Public
 [📓 Rules](buttonurl://t.me/OneForAllSupport/2777)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/d07e4db638075cccd60fa.jpg:imageend}
 {🆘 Join All Might Support}{*-1001398404961}
 
@@ -805,7 +805,7 @@ Sibyl is a scan technology to judge the criminality of a user for telegram spam
 
 *Type:* #Channel #SFW #API
 [💠 API](buttonurl://t.me/PsychoPass)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 [🏢 Support](buttonurl://t.me/PublicSafetyBureau:same)
 {image:https://telegra.ph/file/82b3f0e483b9cc47c3eb2.jpg:imageend}
 {📟 Sibyl System}{*-1001416957680}
@@ -815,7 +815,7 @@ Sibyl is a scan technology to judge the criminality of a user for telegram spam
 
 *Type:* #Channel #SFW #API
 [🧠 Sibyl](buttonurl://t.me/PsychoPass)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 [🏢 Support](buttonurl://t.me/PublicSafetyBureau:same)
 {image:https://telegra.ph/file/ba73bb9b58e4cb7a750ce.png:imageend}
 {💠 Psycho Pass}{*-1001782418612}
@@ -825,7 +825,7 @@ Sibyl is a scan technology to judge the criminality of a user for telegram spam
 
 Type: #Channel #SFW #Logs
 [💬 Group](buttonurl://t.me/PublicSafetyBureau)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/799ac4d94a665593f7d33.jpg:imageend}
 {📟 Public Safety Bureau • Logs}{*-1001463358946}
 
@@ -836,7 +836,7 @@ Type: #Channel #SFW #Logs
 
 *Type:* #SFW #Group #Bots #Support #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001755478715)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 [🧠 Sibyl](buttonurl://t.me/PsychoPass)
 [💠 API](buttonurl://t.me/PsychoPass)
 {image:https://telegra.ph/file/ef915696422f8e2a12b30.jpg:imageend}
@@ -850,7 +850,7 @@ This is a reporting and management group for bad telegram users.
 
 *Type:* #SFW #Group #Bots #Support #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001627437307)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 [🧠 Sibyl](buttonurl://t.me/PsychoPass)
 [💠 API](buttonurl://t.me/PsychoPass)
 {image:https://telegra.ph/file/f450ed241ab17d27a79b8.jpg:imageend}
@@ -864,7 +864,7 @@ This is a reporting and management group for bad telegram users.
 
 *Type:* #SFW #Group #Bots #Support #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001632556172)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 [🧠 Sibyl](buttonurl://t.me/PsychoPass)
 [💠 API](buttonurl://t.me/PsychoPass)
 {image:https://telegra.ph/file/bb4b889b64a0aa233cda9.jpg:imageend}
@@ -878,7 +878,7 @@ This is a reporting and management group for bad telegram users.
 
 *Type:* #SFW #Group #Bots #Support #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001682364685)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 [🧠 Sibyl](buttonurl://t.me/PsychoPass)
 [💠 API](buttonurl://t.me/PsychoPass)
 {image:https://telegra.ph/file/4c8c9684159b404149135.jpg:imageend}
@@ -893,7 +893,7 @@ This is a reporting and management group for bad telegram users.
 
 *Type:* #Logs #Channel
 [💬 Group](buttonurl://t.me/AnimeDimension)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/903864019aa3101afd120.jpg:imageend}
 {📓 Anime Dimension Logs}{*-1001271927019}
 
@@ -902,7 +902,7 @@ This is a reporting and management group for bad telegram users.
 
 *Type:* #Channel #SFW #Memes
 [💬 Group](buttonurl://t.me/AnimeDimension)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/f3110a088e88c1a2b346d.jpg:imageend}
 {🤣 Memes Dimension}{*-1001382399491}
 
@@ -912,7 +912,7 @@ This is a reporting and management group for bad telegram users.
 
 *Type:* #Channel #Anime #Wallpapers #SFW
 [💬 Group](buttonurl://t.me/AnimeDimension)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/c471b0b35840abf6ff32a.jpg:imageend}
 {🖼 Wallpaper Dimension}{*-1001242188370}
 
@@ -924,7 +924,7 @@ Here is a little something by the owner
 
 *Type:* #SFW #English #Group #Public #Anime #OT
 [📓 Rules](buttonurl://t.me/TheRealPhoenixBot?start=-1001216059185)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/8e5bc81b9e048398b5c02.jpg:imageend}
 {🉑 Anime Dimension}{*-1001216059185}
 
@@ -934,7 +934,7 @@ You won't feel bored with the library of games to play from.
 
 *Type:* #SFW #English #Group #Public #Gaming
 [📓 Rules](buttonurl://t.me/TheRealPhoenixBot?start=-1001227570151)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/bad6ad8817a6e8123aea9.jpg:imageend}
 {🎲 Gaming Dimension}{*-1001227570151}
 
@@ -945,7 +945,7 @@ You are not alone, what you don't feel convinved? Come checkout my newspaper cha
 
 *Type:* #Channel #Memes #SFW
 [💬 Group](buttonurl://t.me/AnimeKaizoku)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/47dc2397c90c443278278.jpg:imageend}
 {🗞 Sawada's Daily Newspaper}{*-1001307706431}
 
@@ -955,7 +955,7 @@ You are not alone, what you don't feel convinved? Come checkout my newspaper cha
 
 *Type:* #Channel #Gifs #SFW
 [📥 Request Gifs](buttonurl://t.me/nanoosx)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/fa3afc6dca6bb52c8e39c.jpg:imageend}
 {✨ Made by Sky ~}{*-1001494342900}
 
@@ -967,7 +967,7 @@ You are not alone, what you don't feel convinved? Come checkout my newspaper cha
 If you have access to his plex then consider joining this, those who dont can watch out for invites on The Archivists • 05 • Gigant
 
 *Type:* #SFW #Channel #Logs
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/138dff24e0a6410879a60.jpg:imageend}
 {🚰 Plex Updates}{*-1001434066587}
 
@@ -979,7 +979,7 @@ This channel provides all the necessary updates regarding the same.
 
 *Type:* #SFW #Channel #Bots #Logs #News
 [💬 Group](buttonurl://t.me/AniFluidSupport)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/d3accb99ba8ce11641755.jpg:imageend}
 {🚰 AniFluid Updates}{*-1001352985907}
 
@@ -991,7 +991,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Type:* #SFW #Group #Bots #Support #Public
 [📓 Rules](buttonurl://t.me/TheRealPhoenixBot?start=-1001402342866)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/6477055269f350252d256.jpg:imageend}
 {🆘 AniFluid Support}{*-1001402342866}
 
@@ -1004,7 +1004,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Type:* #Logs #Channel
 [💬 Group](buttonurl://t.me/TheArchivists)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/a3dfc33fac0eeaf8ecef5.jpg:imageend}
 {📓 The Archivists • Moderation Logs}{*-1001158376123}
 
@@ -1015,7 +1015,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Type:* #SFW #English #Support #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001227615225)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/def144c8ba69a93cc6ef7.jpg:imageend}
 {♙ The Archivists • 0 • Zero}{*-1001227615225}
 
@@ -1025,7 +1025,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Type:* #SFW #News #Channel
 [💬 Group](buttonurl://t.me/TheArchivists)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/efb2a9f4242a013fb8a8c.jpg:imageend}
 {♙ The Archivists • 03 • Elemental • News}{*-1001199217611}
 
@@ -1035,7 +1035,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Type:* #SFW #English #Group #Private #Bots
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001345331733)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/8f2b129f3f25775e9d1e4.jpg:imageend}
 {♙ The Archivists • 04 • Dragonia}{*-1001345331733}
 
@@ -1047,7 +1047,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Type:* #SFW #English #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001437831858)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/6597f547e39bfb6df9cf4.jpg:imageend}
 {♙ The Archivists • 05 • Gigant}{*-1001437831858}
 
@@ -1058,7 +1058,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Type:* #SFW #English #Group #Private #Requests
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001414928911)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/d7b041bcb997235cfad3a.jpg:imageend}
 {♖ The Archivists • 07 • Elf}{*-1001414928911}
 
@@ -1070,7 +1070,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Type:* #SFW #English #MirrorBot #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001483286240)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/217b33681637063a0cea9.jpg:imageend}
 {♗ The Archivists • 8 • Dwarf}{*-1001483286240}
 
@@ -1082,7 +1082,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Type:* #SFW #English #MirrorBot #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001151416557)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/0a3d4cd3cb27518c856a4.jpg:imageend}
 {♗ The Archivists • 10 • Ex-Machina}{*-1001151416557}
 
@@ -1094,7 +1094,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Type:* #SFW #English #MirrorBot #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001402400351)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/f9adcf70a4a8d85e7f013.jpg:imageend}
 {♘ The Archivists • 12 • Dhampir}{*-1001402400351}
 
@@ -1106,7 +1106,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Type:* #SFW #English #Crypro #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001245143632)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/8c110e20a9129bfefd04b.jpg:imageend}
 {♖ The Archivists • 13 • Lunamana}{*-1001245143632}
 
@@ -1118,7 +1118,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Type:* #SFW #English #MirrorBot #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001247808161)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/5b54ef26bdb17ae7ac08c.jpg:imageend}
 {♙ The Archivists • 14 • Werebeast}{*-1001247808161}
 
@@ -1128,7 +1128,7 @@ It's a must join for those who collect a lot of things online.
 
 *Type:* #SFW #English #Group #Public #Hoarding
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001248851467)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 [📑 Master Index](buttonurl:https://archivists.xyz)
 [☁️ Worker Index](buttonurl:https://index.archivists.workers.dev/0::same)
 {image:https://telegra.ph/file/c511c60f03b9d5512445f.jpg:imageend}
@@ -1141,7 +1141,7 @@ Be progressive! Say no to hello and spend that time in asking or empowering.
 
 *Type:* #Channel #SFW #Information
 [🏠 Group](buttonurl://t.me/AnimeKaizoku)
-[☠️ Network](buttonurl://t.me/Kaizoku/4:same)
+[☠️ Network](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/b50b2ad3b7e697af56be7.jpg:imageend}
 {🛑 Say No to Hello}{*-1001186415845}
 
@@ -1152,7 +1152,7 @@ Learn what the XY problem is all about.
 
 *Type:* #Channel #SFW #Information
 [🏠 Group](buttonurl://t.me/AnimeKaizoku)
-[☠️ Network](buttonurl://t.me/Kaizoku/4:same)
+[☠️ Network](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/5ed2bff64904a62b03f2a.jpg:imageend}
 {ℹ️ XY Problem}{*-1001492577318}
 
@@ -1162,7 +1162,7 @@ Learn why not to waste time asking if you can just ask a question directly.
 
 *Type:* #Channel #SFW #Information
 [🏠 Group](buttonurl://t.me/AnimeKaizoku)
-[☠️ Network](buttonurl://t.me/Kaizoku/4:same)
+[☠️ Network](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/2548e8db669144a5e73ba.jpg:imageend}
 {❕ Don't ask to ask!}{*-1001370494958}
 
@@ -1172,7 +1172,7 @@ The hitchhikers guide to asking smarter questions.
 
 *Type:* #Channel #SFW #Information
 [🏠 Group](buttonurl://t.me/AnimeKaizoku)
-[☠️ Network](buttonurl://t.me/Kaizoku/4:same)
+[☠️ Network](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/d7c917ecf94baa5ff1443.jpg:imageend}
 {❔ How to ask smart Questions?}{*-1001254727282}
 
@@ -1183,7 +1183,7 @@ A fresh take on art with my RDK.K's attempts at draws, renders, stories.
 
 *Type:* #Channel #SFW #Art
 [📷 Insta](buttonurl://https://www.instagram.com/rayadrawsanime)
-[☠️ Network](buttonurl://t.me/Kaizoku/4:same)
+[☠️ Network](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/26024c10a8f78dc14b28f.jpg:imageend}
 {🎨 Raya Draws}{*-1001248789303}
 
@@ -1194,7 +1194,7 @@ A fresh take on art with my RDK.K's attempts at draws, renders, stories.
 Type: #SFW #Help #Support #Public
 
 [❕ Rules](buttonurl://t.me/SaitamaRobot?start=-1001719988162)
-[📶](buttonurl://t.me/Kaizoku/4:same)
+[📶](buttonurl://t.me/Kaizoku/158:same)
 [📋 Bot's List](buttonurl://https://t.me/Kaizoku/7:same)
 {image:https://telegra.ph/file/bfdab6b474aa22307ed88.jpg:imageend}
 {♟ Moderation Tactics}{*-1001719988162}

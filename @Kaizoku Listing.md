@@ -1163,7 +1163,7 @@ The support group that provides assitance for @AniFluidbot.
 
 *Join Condition:* You must be a member of @TheArchivists
 
-*Type:* #SFW #English #Crypro #Group #Private
+*Type:* #SFW #English #Crypto #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001245143632)
 [📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/8c110e20a9129bfefd04b.jpg:imageend}

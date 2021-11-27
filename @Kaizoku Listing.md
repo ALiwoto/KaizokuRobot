@@ -886,54 +886,6 @@ This is a reporting and management group for bad telegram users.
 {🏢 CID • Division 03}{*-1001682364685}
 
 
-### Dank's setup
-## Eagle Union • Kigyō Updates
-/newpost Everything from future plans, downtimes, issues to every new upcoming feature is logged and listed on Saitama updates.
-If you use @SaitamaRobot in your group then we urge you to join this channel.
-
-*Type:* #SFW #Channel #Bots #Logs #News
-[💬 Group](buttonurl://t.me/YorktownEagleUnion)
-[📶](buttonurl://t.me/Kaizoku/158:same)
-{image:https://telegra.ph/file/176b893519e3de4b3de5f.png:imageend}
-{✨ Join Kigyō Updates}{*-1001460328604}
-
-## Eagle Union • Kigyo Support
-/newpost Facing issues with @SaitamaRobot? Have suggestions? anything else? this group chat is the one-stop solution for anything related to SaitamaRobot.
-Please don't come asking help on your fork, Saitama related queries only.
-
-*⚠️ Warning:* Strict moderation! Off-topic, spam, promoting are considered hostile - make sure you read group rules carefully.
-
-*Type:* #SFW #Group #Bots #Support #Public
-[📓 Rules](buttonurl://t.me/KigyoRobot?start=-1001437205701)
-[📶](buttonurl://t.me/Kaizoku/158:same)
-{image:https://telegra.ph/file/1b7443c27e47ca6e1aabd.png:imageend}
-{🆘 Eagle Union • Kigyo Support}{*-1001437205701}
-
-## Kigyo | Redesigned • Support
-/newpost Facing issues with @SaitamaRobot? Have suggestions? anything else? this group chat is the one-stop solution for anything related to SaitamaRobot.
-Please don't come asking help on your fork, Saitama related queries only.
-
-*⚠️ Warning:* Strict moderation! Off-topic, spam, promoting are considered hostile - make sure you read group rules carefully.
-
-*Type:* #SFW #Group #Bots #Support #Public
-[📓 Rules](buttonurl://t.me/rKigyoBot?start=-1001525066107)
-[📶](buttonurl://t.me/Kaizoku/158:same)
-{image:https://telegra.ph/file/966abd09a7f1a8d8a12ee.png:imageend}
-{🆘 Kigyo | Redesigned • Support}{*-1001525066107}
-
-## ᗜˬᗜ • Chiruzōn || チルゾーン
-/newpost Facing issues with @SaitamaRobot? Have suggestions? anything else? this group chat is the one-stop solution for anything related to SaitamaRobot.
-Please don't come asking help on your fork, Saitama related queries only.
-
-*⚠️ Warning:* Strict moderation! Off-topic, spam, promoting are considered hostile - make sure you read group rules carefully.
-
-*Type:* #SFW #Group #Bots #Support #Public
-[📓 Rules](buttonurl://t.me/rKigyoBot?start=-1001192616647)
-[📶](buttonurl://t.me/Kaizoku/158:same)
-{image:https://telegra.ph/file/55fd6f082679e67f80ac1.png:imageend}
-{🐾 ᗜˬᗜ • Chiruzōn || チルゾーン}{*-1001192616647}
-
-
 ### Anime Dimension ###
 
 ## Anime Dimension SS // Logs
@@ -985,6 +937,54 @@ You won't feel bored with the library of games to play from.
 [📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/bad6ad8817a6e8123aea9.jpg:imageend}
 {🎲 Gaming Dimension}{*-1001227570151}
+
+
+### Dank's setup
+## Eagle Union • Kigyō Updates
+/newpost Everything from future plans, downtimes, issues to every new upcoming feature is logged and listed on Saitama updates.
+If you use @SaitamaRobot in your group then we urge you to join this channel.
+
+*Type:* #SFW #Channel #Bots #Logs #News
+[💬 Group](buttonurl://t.me/YorktownEagleUnion)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+{image:https://telegra.ph/file/176b893519e3de4b3de5f.png:imageend}
+{✨ Join Kigyō Updates}{*-1001460328604}
+
+## Eagle Union • Kigyo Support
+/newpost Facing issues with @SaitamaRobot? Have suggestions? anything else? this group chat is the one-stop solution for anything related to SaitamaRobot.
+Please don't come asking help on your fork, Saitama related queries only.
+
+*⚠️ Warning:* Strict moderation! Off-topic, spam, promoting are considered hostile - make sure you read group rules carefully.
+
+*Type:* #SFW #Group #Bots #Support #Public
+[📓 Rules](buttonurl://t.me/KigyoRobot?start=-1001437205701)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+{image:https://telegra.ph/file/1b7443c27e47ca6e1aabd.png:imageend}
+{🆘 Eagle Union • Kigyo Support}{*-1001437205701}
+
+## Kigyo | Redesigned • Support
+/newpost Facing issues with @SaitamaRobot? Have suggestions? anything else? this group chat is the one-stop solution for anything related to SaitamaRobot.
+Please don't come asking help on your fork, Saitama related queries only.
+
+*⚠️ Warning:* Strict moderation! Off-topic, spam, promoting are considered hostile - make sure you read group rules carefully.
+
+*Type:* #SFW #Group #Bots #Support #Public
+[📓 Rules](buttonurl://t.me/rKigyoBot?start=-1001525066107)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+{image:https://telegra.ph/file/966abd09a7f1a8d8a12ee.png:imageend}
+{🆘 Kigyo | Redesigned • Support}{*-1001525066107}
+
+## ᗜˬᗜ • Chiruzōn || チルゾーン
+/newpost Facing issues with @SaitamaRobot? Have suggestions? anything else? this group chat is the one-stop solution for anything related to SaitamaRobot.
+Please don't come asking help on your fork, Saitama related queries only.
+
+*⚠️ Warning:* Strict moderation! Off-topic, spam, promoting are considered hostile - make sure you read group rules carefully.
+
+*Type:* #SFW #Group #Bots #Support #Public
+[📓 Rules](buttonurl://t.me/rKigyoBot?start=-1001192616647)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+{image:https://telegra.ph/file/55fd6f082679e67f80ac1.png:imageend}
+{🐾 ᗜˬᗜ • Chiruzōn || チルゾーン}{*-1001192616647}
 
 
 ## Sawada's Daily Newspaper

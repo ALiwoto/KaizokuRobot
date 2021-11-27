@@ -143,7 +143,7 @@ func SendHandler(b ext.Bot, u *gotgbot.Update) error {
 
 	torep := ""
 
-	if p, f := utils.GetStringInBetweenTwoString(message, "{image:", "}"); f {
+	if p, f := utils.GetStringInBetweenTwoString(message, "{image:", ":imageend}"); f {
 		rq := b.NewSendablePhoto(utils.GetChannelId(), "")
 		rq.Photo = b.NewFileURL(p)
 		rq.ParseMode = "HTML"

@@ -4,6 +4,7 @@ import (
 	"TGChannelGo/utils"
 	"bytes"
 	"fmt"
+	"html"
 	"io/ioutil"
 	"os"
 	"strconv"
@@ -95,8 +96,8 @@ func SendHandler(b ext.Bot, u *gotgbot.Update) error {
 		}
 	}
 
-	html, btn := tg_md2html.MD2HTMLButtons(strings.SplitAfter(message, utils.GetSendCommand())[1])
-	text = html
+	htmltext, btn := tg_md2html.MD2HTMLButtons(strings.SplitAfter(message, utils.GetSendCommand())[1])
+	text = htmltext
 
 	if strings.HasSuffix(message, "}") {
 		postlink = false
@@ -131,12 +132,12 @@ func SendHandler(b ext.Bot, u *gotgbot.Update) error {
 				}
 			}
 			add := fmt.Sprintf("[%v](buttonurl:%v)", label, chat.InviteLink)
-			html, btn = tg_md2html.MD2HTMLButtons(strings.Split(strings.SplitAfter(message, utils.GetSendCommand())[1], "{")[0] + "\n" + add)
+			htmltext, btn = tg_md2html.MD2HTMLButtons(strings.Split(strings.SplitAfter(message, utils.GetSendCommand())[1], "{")[0] + "\n" + add)
 			btn = ReplaeLinks(b, btn)
-			text = "<b>" + chat.Title + "</b>" + "\n\n" + fmt.Sprintf("<code>%v</code>", chat.Id) + "\n\n" + html
+			text = "<b>" + html.EscapeString(chat.Title) + "</b>" + "\n\n" + fmt.Sprintf("<code>%v</code>", chat.Id) + "\n\n" + htmltext
 		} else {
-			html, btn = tg_md2html.MD2HTMLButtons(strings.Split(strings.SplitAfter(message, utils.GetSendCommand())[1], "{")[0])
-			text = "<b>" + chat.Title + "</b>" + "\n\n" + fmt.Sprintf("<code>%v</code>", chat.Id) + "\n\n" + html
+			htmltext, btn = tg_md2html.MD2HTMLButtons(strings.Split(strings.SplitAfter(message, utils.GetSendCommand())[1], "{")[0])
+			text = "<b>" + html.EscapeString(chat.Title) + "</b>" + "\n\n" + fmt.Sprintf("<code>%v</code>", chat.Id) + "\n\n" + htmltext
 			btn = ReplaeLinks(b, btn)
 		}
 	}

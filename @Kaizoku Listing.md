@@ -634,10 +634,10 @@ _Kaizoku ou ni, ore wa naru_
 *⚠️ Warning:* Users who have zero messages or are there only to stalk will get kicked
 
 *Type:* #NSFW #English #Hentai #Group #Private
-[📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001426830158)
+[📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001736149989)
 [📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/af260f8abdb51a3ba76be.jpg:imageend}
-{🏩 Kaizoku • Hentai}{*-1001426830158}
+{🏩 Kaizoku • Hentai}{*-1001736149989}
 
 ## ☠️ Kaizoku • UNO
 /newpost A group chat dedicated to only playing the card game - UNO.
@@ -705,8 +705,8 @@ Type: #SFW #Bots #Support #Public
 
 [❕ Rules](buttonurl://t.me/SaitamaRobot?start=-1001138194012)
 [📶](buttonurl://t.me/Kaizoku/158:same)
-[📋 Bot's List](buttonurl://https://t.me/Kaizoku/7:same)
-{image:https://telegra.ph/file/1eb2b2a61f382ba5f423a.jpg:imageend}
+[📋 Bot's List](buttonurl://t.me/Kaizoku/161:same)
+{image:https://telegra.ph/file/187cd1316577670f22718.jpg:imageend}
 {🤖 Kaizoku • Bot's Support}{*-1001138194012}
 
 ### Heroes Association ###
@@ -768,10 +768,10 @@ Please don't come asking help on your fork, Saitama related queries only.
 *⚠️ Warning:* Strict moderation! Off-topic, spam, promoting are considered hostile - make sure you read group rules carefully.
 
 *Type:* #SFW #Group #Bots #Dev #Public
-[📓 Rules](buttonurl://t.me/SaitamaShikenRobot?start=-1001230319386)
+[📓 Rules](buttonurl://t.me/SaitamaShikenRobot?start=-1001189037984)
 [📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/78fe85b7aaed5c6e88e18.jpg:imageend}
-{👨🏼‍💻 Join Dev Chat}{*-1001230319386}
+{👨🏼‍💻 Join Dev Chat}{*-1001189037984}
 
 ### All Might Support ###
 ## All For One • All Might Updates
@@ -811,7 +811,8 @@ Sibyl is a scan technology to judge the criminality of a user for telegram spam
 {📟 Sibyl System}{*-1001416957680}
 
 ## Psycho Pass
-/newpost Sibyl System scans and bans implemented over with an API taht tracks and determines latent criminals. 
+/newpost A Psycho-Pass is a reading of an individual's mind via a cymatic scan. It shows a [Crime Coefficient](https://t.me/SibylSystem/3), a Hue, a graph of how the individual's Psycho-Pass changed over time, and a basic societal profile of the individual. 
+The API implementation of the series PsychoPass technology is what this channel is about. 
 
 *Type:* #Channel #SFW #API
 [🧠 Sibyl](buttonurl://t.me/PsychoPass)
@@ -827,18 +828,18 @@ Type: #Channel #SFW #Logs
 [💬 Group](buttonurl://t.me/PublicSafetyBureau)
 [📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/799ac4d94a665593f7d33.jpg:imageend}
-{📟 Public Safety Bureau • Logs}{*-1001463358946}
+{📓 Public Safety Bureau • Logs}{*-1001463358946}
 
 ## Public Safety Bureau
 /newpost A telegram based anime themed enforcement agency aimed to bring order into the dystopian present.
-
+The support group for [Sibyl](https://t.me/Kaizoku/216) and [PsychoPass](https://t.me/Kaizoku/217)
 *⚠️ Warning:* Strict moderation! Off-topic, spam, promotions are considered hostile - make sure you read group rules carefully.
 
 *Type:* #SFW #Group #Bots #Support #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001755478715)
-[📶](buttonurl://t.me/Kaizoku/158:same)
 [🧠 Sibyl](buttonurl://t.me/PsychoPass)
-[💠 API](buttonurl://t.me/PsychoPass)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+[💠 API](buttonurl://t.me/PsychoPass:same)
 {image:https://telegra.ph/file/ef915696422f8e2a12b30.jpg:imageend}
 {🏢 Public Safety Bureau}{*-1001755478715}
 
@@ -850,9 +851,9 @@ This is a reporting and management group for bad telegram users.
 
 *Type:* #SFW #Group #Bots #Support #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001627437307)
-[📶](buttonurl://t.me/Kaizoku/158:same)
 [🧠 Sibyl](buttonurl://t.me/PsychoPass)
-[💠 API](buttonurl://t.me/PsychoPass)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+[💠 API](buttonurl://t.me/PsychoPass:same)
 {image:https://telegra.ph/file/f450ed241ab17d27a79b8.jpg:imageend}
 {🏢 CID • Division 01}{*-1001627437307}
 
@@ -864,9 +865,9 @@ This is a reporting and management group for bad telegram users.
 
 *Type:* #SFW #Group #Bots #Support #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001632556172)
-[📶](buttonurl://t.me/Kaizoku/158:same)
 [🧠 Sibyl](buttonurl://t.me/PsychoPass)
-[💠 API](buttonurl://t.me/PsychoPass)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+[💠 API](buttonurl://t.me/PsychoPass:same)
 {image:https://telegra.ph/file/bb4b889b64a0aa233cda9.jpg:imageend}
 {🏢 CID • Division 02}{*-1001632556172}
 
@@ -878,12 +879,59 @@ This is a reporting and management group for bad telegram users.
 
 *Type:* #SFW #Group #Bots #Support #Public
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001682364685)
-[📶](buttonurl://t.me/Kaizoku/158:same)
 [🧠 Sibyl](buttonurl://t.me/PsychoPass)
-[💠 API](buttonurl://t.me/PsychoPass)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+[💠 API](buttonurl://t.me/PsychoPass:same)
 {image:https://telegra.ph/file/4c8c9684159b404149135.jpg:imageend}
 {🏢 CID • Division 03}{*-1001682364685}
 
+
+### Dank's setup
+## Eagle Union • Kigyō Updates
+/newpost Everything from future plans, downtimes, issues to every new upcoming feature is logged and listed on Saitama updates.
+If you use @SaitamaRobot in your group then we urge you to join this channel.
+
+*Type:* #SFW #Channel #Bots #Logs #News
+[💬 Group](buttonurl://t.me/YorktownEagleUnion)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+{image:https://telegra.ph/file/176b893519e3de4b3de5f.png:imageend}
+{✨ Join Kigyō Updates}{*-1001460328604}
+
+## Eagle Union • Kigyo Support
+/newpost Facing issues with @SaitamaRobot? Have suggestions? anything else? this group chat is the one-stop solution for anything related to SaitamaRobot.
+Please don't come asking help on your fork, Saitama related queries only.
+
+*⚠️ Warning:* Strict moderation! Off-topic, spam, promoting are considered hostile - make sure you read group rules carefully.
+
+*Type:* #SFW #Group #Bots #Support #Public
+[📓 Rules](buttonurl://t.me/KigyoRobot?start=-1001437205701)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+{image:https://telegra.ph/file/1b7443c27e47ca6e1aabd.png:imageend}
+{🆘 Eagle Union • Kigyo Support}{*-1001437205701}
+
+## Kigyo | Redesigned • Support
+/newpost Facing issues with @SaitamaRobot? Have suggestions? anything else? this group chat is the one-stop solution for anything related to SaitamaRobot.
+Please don't come asking help on your fork, Saitama related queries only.
+
+*⚠️ Warning:* Strict moderation! Off-topic, spam, promoting are considered hostile - make sure you read group rules carefully.
+
+*Type:* #SFW #Group #Bots #Support #Public
+[📓 Rules](buttonurl://t.me/rKigyoBot?start=-1001525066107)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+{image:https://telegra.ph/file/966abd09a7f1a8d8a12ee.png:imageend}
+{🆘 Kigyo | Redesigned • Support}{*-1001525066107}
+
+## ᗜˬᗜ • Chiruzōn || チルゾーン
+/newpost Facing issues with @SaitamaRobot? Have suggestions? anything else? this group chat is the one-stop solution for anything related to SaitamaRobot.
+Please don't come asking help on your fork, Saitama related queries only.
+
+*⚠️ Warning:* Strict moderation! Off-topic, spam, promoting are considered hostile - make sure you read group rules carefully.
+
+*Type:* #SFW #Group #Bots #Support #Public
+[📓 Rules](buttonurl://t.me/rKigyoBot?start=-1001192616647)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+{image:https://telegra.ph/file/55fd6f082679e67f80ac1.png:imageend}
+{🐾 ᗜˬᗜ • Chiruzōn || チルゾーン}{*-1001192616647}
 
 
 ### Anime Dimension ###

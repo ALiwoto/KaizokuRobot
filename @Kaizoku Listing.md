@@ -1,114 +1,133 @@
-Welcome to @Kaizoku!
+*Welcome to* @Kaizoku!
 
 This channel inter-connects all of what Kaizoku manages, co-manages, created and connects.
 You are free to view, check rules and join the community that you wish for.
 
-• Telegram
-  ╔ • Groups(https://t.me/Kaizoku/5)
-  ╠ • Channels(https://t.me/Kaizoku/6)  
-  ╠ • Bots(https://t.me/Kaizoku/7)  
-  ╠ • Stickers(https://t.me/Kaizoku/9)  
-  ╠ • Reserved(https://t.me/Kaizoku/10)  
-  ╠ • Network news(https://t.me/Kaizoku/133)
-  ╚ • Bots Uptime(https://t.me/Kaizoku/143)
-  
-  • Across the web
-  ╔ • Websites(https://t.me/Kaizoku/8)
-  ╠ • Discord(https://t.me/Kaizoku/11)  
-  ╠ • Github(http://github.com/AnimeKaizoku/)
-  ╚ • Server status(https://status.animekaizoku.com/)
+*• Telegram*
+ ╔ • [Groups](https://t.me/Kaizoku/159)
+ ╠ • [Channels](https://t.me/Kaizoku/160)
+ ╠ • [Bots](https://t.me/Kaizoku/161)
+ ╠ • [Stickers](https://t.me/Kaizoku/163)
+ ╠ • [Usernames owned](https://t.me/Kaizoku/164)
+ ╠ • [Bot Usernames owned](https://t.me/Kaizoku/165)
+ ╠ • [Network news](https://t.me/Kaizoku/171)
+ ╚ • [Bots Uptime](https://t.me/Kaizoku/168)
+
+ *• Across the web*
+ ╔ • [Websites](https://t.me/Kaizoku/162)
+ ╠ • [Discord](https://t.me/Kaizoku/166)
+ ╠ • [Github](http://github.com/AnimeKaizoku/)  
+ ╚ • [Server status](https://status.animekaizoku.com/)
 
 
 
 -------------------------------------------------
 ㅤ
-🚏 Groups Index @Kaizoku
+*🚏 Groups Index* @Kaizoku
 
-This listing is sorted based on Community
+This listing is sorted by Community 
 
-• Kaizoku 
-  ╔ • Kaizoku • Anime(https://t.me/Kaizoku/43)  
-  ╠ • Kaizoku • Gaming(https://t.me/Kaizoku/44)  
-  ╠ • Kaizoku • Hentai(https://t.me/Kaizoku/45)  
-  ╠ • Kaizoku • UNO(https://t.me/Kaizoku/46)  
-  ╠ • Kaizoku • Confessions(https://t.me/Kaizoku/47)  
-  ╠ • Kaizoku • Minecraft(https://t.me/Kaizoku/48)  
-  ╠ • Kaizoku • Music(https://t.me/Kaizoku/50)  
-  ╠ • Kaizoku • Connect Bots(https://t.me/Kaizoku/51)  
-  ╠ • Kaizoku • Bot's Support(https://t.me/Kaizoku/145)  
-  ╚ • Kaizoku • Intemperate (https://t.me/Kaizoku/131)
+*• Kaizoku* 
+ ╔ • [Kaizoku • Anime](https://t.me/Kaizoku/190)  
+ ╠ • [Kaizoku • Gaming](https://t.me/Kaizoku/191)  
+ ╠ • [Kaizoku • Hentai](https://t.me/Kaizoku/192)  
+ ╠ • [Kaizoku • UNO](https://t.me/Kaizoku/193)  
+ ╠ • [Kaizoku • Confessions](https://t.me/Kaizoku/194)  
+ ╠ • [Kaizoku • Minecraft](https://t.me/Kaizoku/195)  
+ ╠ • [Kaizoku • Music](https://t.me/Kaizoku/196)  
+ ╠ • [Kaizoku • Connect Bots](https://t.me/Kaizoku/197)  
+ ╠ • [Kaizoku • Bot's Support](https://t.me/Kaizoku/201)  
+ ╚ • [Kaizoku • Intemperate ](https://t.me/Kaizoku/198)
  
- • Dimensions
-  ╔ • Anime Dimension | Chess Arena(https://t.me/Kaizoku/76)  
-  ╚ • Gaming Dimension | #DuckYou(https://t.me/Kaizoku/77)
+ *• Dimensions*
+ ╔ • [Anime Dimension | Telegram Got Life™](https://t.me/Kaizoku/228)  
+ ╚ • [Gaming Dimension | #DuckYou](https://t.me/Kaizoku/229)
  
- • Archivists
-  ╔ • Archivists • 0 • Zero(https://t.me/Kaizoku/113)  
-  ╠ • Archivists • 04 • Dragonia(https://t.me/Kaizoku/115)  
-  ╠ • Archivists • 05 • Gigant(https://t.me/Kaizoku/116)  
-  ╠ • Archivists • 07 • Elf(https://t.me/Kaizoku/130)  
-  ╠ • Archivists • 08 • Dwarf(https://t.me/Kaizoku/117)
-  ╠ • Archivists • 10 • Ex-Machina(https://t.me/Kaizoku/118)  
-  ╠ • Archivists • 12 • Dhampir(https://t.me/Kaizoku/119)  
-  ╠ • Archivists • 13 • Lunamana (https://t.me/Kaizoku/120)
-  ╠ • Archivists • 14 • Werebeast(https://t.me/Kaizoku/121)
-  ╚ • Archivists • 16 • Imanity • Base(https://t.me/Kaizoku/122)
- 
- • Sibyl
-  ╚ • Public Safety Bureau(https://t.me/Kaizoku/65)
-  
-  • Bots and Support
-  ╔ • Saitama Support(https://t.me/Kaizoku/59) 
-  ╠ • Shiken • Dev(https://t.me/Kaizoku/60)
-  ╚ • All Might Support(https://t.me/Kaizoku/62)
+ *• Archivists*
+ ╔ • [Archivists • 0 • Zero](https://t.me/Kaizoku/240)  
+ ╠ • [Archivists • 04 • Dragonia](https://t.me/Kaizoku/242)  
+ ╠ • [Archivists • 05 • Gigant](https://t.me/Kaizoku/243)  
+ ╠ • [Archivists • 07 • Elf](https://t.me/Kaizoku/244)  
+ ╠ • [Archivists • 08 • Dwarf](https://t.me/Kaizoku/245)
+ ╠ • [Archivists • 10 • Ex-Machina](https://t.me/Kaizoku/246)  
+ ╠ • [Archivists • 12 • Dhampir](https://t.me/Kaizoku/247)  
+ ╠ • [Archivists • 13 • Lunamana](https://t.me/Kaizoku/248)
+ ╠ • [Archivists • 14 • Werebeast](https://t.me/Kaizoku/249)
+ ╚ • [Archivists • 16 • Imanity • Base](https://t.me/Kaizoku/250)
 
+ *• Sibyl*
+ ╔ • [Public Safety Bureau](https://t.me/Kaizoku/220)
+ ╠ • [CID • Division 01](https://t.me/Kaizoku/221)
+ ╠ • [CID • Division 02](https://t.me/Kaizoku/222)
+ ╚ • [CID • Division 03](https://t.me/Kaizoku/223)
+
+ *• Eagle Union*
+ ╔ • [Kigyō Support](https://t.me/Kaizoku/231)
+ ╠ • [Kigyo | Redesigned • Support](https://t.me/Kaizoku/232)
+ ╚ • [ᗜˬᗜ • Chiruzōn || チルゾーン](https://t.me/Kaizoku/233)
+
+ *• Bots and Support*
+ ╔ • [Heroes Association](https://t.me/Kaizoku/207) 
+ ╠ • [Shiken • Dev](https://t.me/Kaizoku/213)
+ ╠ • [AniFluid Support](https://t.me/Kaizoku/238)
+ ╚ • [All Might Support](https://t.me/Kaizoku/215)
+
+ *• Other Groups*
+ ╚ • [Moderation Tactics](https://t.me/Kaizoku/256)
 
 -------------------------------------------------
 ㅤ
-🚏 Channels Index @Kaizoku
+*🚏 Channels Index* @Kaizoku
 
-• Kaizoku 
-  ╔ • Kaizoku • Encoded Anime(https://t.me/Kaizoku/36)  
-  ╠ • Kaizoku • Weird(https://t.me/Kaizoku/37)  
-  ╠ • Kaizoku • Gifs(https://t.me/Kaizoku/38)  
-  ╠ • Kaizoku • Memes(https://t.me/Kaizoku/39)  
-  ╠ • Kaizoku • Network(https://t.me/Kaizoku/40)  
-  ╠ • Kaizoku • Ongaku(https://t.me/Kaizoku/41)  
-  ╠ • Kaizoku • Minecraft Builds(https://t.me/Kaizoku/139)  
-  ╠ • Kaizoku • Paired Pfp's(https://t.me/Kaizoku/137)
-  ╚ • Kaizoku • Logs(https://t.me/Kaizoku/42)
- 
- • Dimensions
-  ╔ • Anime Dimension SS // Logs | I think(https://t.me/Kaizoku/73) 
-  ╠ • Memes Dimension(https://t.me/Kaizoku/74)
-  ╚ • Wallpaper Dimension(https://t.me/Kaizoku/75)
-  
-  • Archivists
-  ╔ • The Archivists • 0.3 • Logs(https://t.me/Kaizoku/112)
-  ╚ • Archivists • 03 • Elemental • News(https://t.me/Kaizoku/114)
-  
-  • Sibyl
-  ╔ • Sibyl System • Logs(https://t.me/Kaizoku/63)
-  ╚ • Public Safety Bureau • Moderation Logs(https://t.me/Kaizoku/64)
-  
-  • Bots and Support
-  ╔ • Saitama Updates(https://t.me/Kaizoku/55)  
-  ╠ • Saitama Global Logs(https://t.me/Kaizoku/56)  
-  ╠ • Saitama Shiken • Global Logs (Dev)(https://t.me/Kaizoku/57)
-  ╠ • Heroes Association • Logs(https://t.me/Kaizoku/58)
-  ╚ • All For One • All Might Updates(https://t.me/Kaizoku/61)
- 
- • Information
-  ╔ • No Hello(https://t.me/Kaizoku/124)  
-  ╠ • XY Problem(https://t.me/Kaizoku/125)  
-  ╠ • Don't ask to ask!(https://t.me/Kaizoku/126)
-  ╚ • How to ask smart questions?(https://t.me/Kaizoku/127)
- 
- • Fun stuff
-  ╔ • Sawada's Daily Newspaper(https://t.me/Kaizoku/78) 
-  ╠ • Made by Sky ~(https://t.me/Kaizoku/79)
-  ╚  • Raya Draws (https://t.me/Kaizoku/136)
+This listing is sorted by Community 
 
+ *• Kaizoku *
+ ╔ • [Kaizoku • Encoded Anime](https://t.me/Kaizoku/180)  
+ ╠ • [Kaizoku • Weird](https://t.me/Kaizoku/181)  
+ ╠ • [Kaizoku • Gifs](https://t.me/Kaizoku/182)  
+ ╠ • [Kaizoku • Memes](https://t.me/Kaizoku/183)  
+ ╠ • [Kaizoku • Network](https://t.me/Kaizoku/184)  
+ ╠ • [Kaizoku • Ongaku](https://t.me/Kaizoku/185)  
+ ╠ • [Kaizoku • Minecraft Builds](https://t.me/Kaizoku/186)  
+ ╠ • [Kaizoku • Paired Pfp's](https://t.me/Kaizoku/187)
+ ╚ • [Kaizoku • Logs](https://t.me/Kaizoku/189)
+
+ *• Dimensions*
+ ╔ • [Anime Dimension SS // Logs | Apparently](https://t.me/Kaizoku/225) 
+ ╠ • [Memes Dimension](https://t.me/Kaizoku/226)
+ ╚ • [Wallpaper Dimension](https://t.me/Kaizoku/227)
+
+ *• Archivists*
+ ╔ • [The Archivists • 0.3 • Logs](https://t.me/Kaizoku/239)
+ ╚ • [Archivists • 03 • Elemental • News](https://t.me/Kaizoku/241)
+
+ *• Sibyl*
+ ╔ • [Sibyl System](https://t.me/Kaizoku/2116)
+ ╠ • [Psycho Pass](https://t.me/Kaizoku/217)
+ ╚ • [Public Safety Bureau • Moderation Logs](https://t.me/Kaizoku/218)
+
+ *• Eagle Union*
+ ╚ • [Kigyō Updates](https://t.me/Kaizoku/230)
+
+ *• Bots and Support*
+ ╔ • [Saitama Updates](https://t.me/Kaizoku/202)  
+ ╠ • [Saitama Global Logs](https://t.me/Kaizoku/204)  
+ ╠ • [Saitama Shiken • Global Logs (Dev)](https://t.me/Kaizoku/205)
+ ╠ • [Heroes Association • Logs](https://t.me/Kaizoku/206)
+ ╠ • [AniFluid Updates](https://t.me/Kaizoku/237)
+ ╚ • [All For One • All Might Updates](https://t.me/Kaizoku/214)
+
+ *• Information*
+ ╔ • [No Hello](https://t.me/Kaizoku/251)  
+ ╠ • [XY Problem](https://t.me/Kaizoku/252)  
+ ╠ • [Don't ask to ask!](https://t.me/Kaizoku/253)
+ ╚ • [How to ask smart questions?](https://t.me/Kaizoku/254)
+
+ *• Content and Fun stuff*
+ ╔ • [Sawada's Daily Newspaper](https://t.me/Kaizoku/234) 
+ ╠ • [Made by Sky ~](https://t.me/Kaizoku/235)
+ ╠ • [Plex Updates](https://t.me/Kaizoku/236)
+ ╚ • [Raya Draws](https://t.me/Kaizoku/255)
 
 -------------------------------------------------
 
@@ -956,6 +975,7 @@ Type: #SFW #Channel #Bots #Support #Public
 ## Eagle Union • Kigyo Support
 /newpost @KigyoRobot's Support and development chat.
 Any feature requests, bugs reports or suggestions are welcome.
+
 *⚠️ Warning:*  Strict moderation ahead, beware! Offtopic conversation and spam won't be tolerated
 
 Type: #SFW #Group #Bots #Support #Public
@@ -967,6 +987,7 @@ Type: #SFW #Group #Bots #Support #Public
 ## Kigyo | Redesigned • Support
 /newpost @rKigyoBot's Support and development chat.
 Any feature requests, bugs reports or suggestions are welcome.
+
 *⚠️ Warning:*  Strict moderation ahead, beware! Offtopic conversation and spam won't be tolerated.
 
 *Type:* #SFW #Group #Bots #Support #Public
@@ -1058,7 +1079,7 @@ The support group that provides assitance for @AniFluidbot.
 ## ♙ The Archivists • 0 • Zero
 /newpost Focuses on technical stuff around bots, cloning, rclone, folderclone or anything else you may need over your course of hoarding.
 
-*Condition:* You must be a member of @TheArchivists
+*Join Condition:* You must be a member of @TheArchivists
 
 *Type:* #SFW #English #Support #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001227615225)
@@ -1080,6 +1101,8 @@ The support group that provides assitance for @AniFluidbot.
 ## ♙ The Archivists • 04 • Dragonia
 /newpost Dragonia features a search bot that takes your query and searches Archivists, reverting you back with a telegraphed list of results, links and size of all the results.
 
+*Join Condition:* You must be a member of @TheArchivists
+
 *Type:* #SFW #English #Group #Private #Bots
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001345331733)
 [📶](buttonurl://t.me/Kaizoku/158:same)
@@ -1090,7 +1113,7 @@ The support group that provides assitance for @AniFluidbot.
 ## ♙ The Archivists • 05 • Gigant
 /newpost A group by @TheArchivists to share your own hoarding collection with people. Plex servers, requests, selling, buying, are all welcome. Gigant lets you promote your own Archivists like network.
 
-*Condition:* You must be a member of @TheArchivists
+*Join Condition:* You must be a member of @TheArchivists
 
 *Type:* #SFW #English #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001437831858)
@@ -1101,7 +1124,7 @@ The support group that provides assitance for @AniFluidbot.
 ## ♖ The Archivists • 07 • Elf
 /newpost Request addition of content, contribute content. You fulfill requests here and you can ensure your access to [Archivists collection](https://archivists.xyz)
 
-*Condition:* You must be a member of @TheArchivists
+*Join Condition:* You must be a member of @TheArchivists
 
 *Type:* #SFW #English #Group #Private #Requests
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001414928911)
@@ -1113,7 +1136,7 @@ The support group that provides assitance for @AniFluidbot.
 ## The Archivists • 08 • Dwarf
 /newpost Google Drive mirroring group featuring NyiRobot
 
-*Condition:* You must be a member of @TheArchivists
+*Join Condition:* You must be a member of @TheArchivists
 
 *Type:* #SFW #English #MirrorBot #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001483286240)
@@ -1125,7 +1148,7 @@ The support group that provides assitance for @AniFluidbot.
 ## The Archivists • 10 • Ex-Machina
 /newpost Google Drive mirroring group featuring EinithiRobot
 
-*Condition:* You must be a member of @TheArchivists
+*Join Condition:* You must be a member of @TheArchivists
 
 *Type:* #SFW #English #MirrorBot #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001151416557)
@@ -1137,7 +1160,7 @@ The support group that provides assitance for @AniFluidbot.
 ## The Archivists • 12 • Dhampir
 /newpost Google Drive mirroring group featuring PlumRobot
 
-*Condition:* You must be a member of @TheArchivists
+*Join Condition:* You must be a member of @TheArchivists
 
 *Type:* #SFW #English #MirrorBot #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001402400351)
@@ -1149,7 +1172,7 @@ The support group that provides assitance for @AniFluidbot.
 ## The Archivists • 13 • Lunamana
 /newpost A small arc around crypto-currency, trading, investing and stocks.
 
-*Condition:* You must be a member of @TheArchivists
+*Join Condition:* You must be a member of @TheArchivists
 
 *Type:* #SFW #English #Crypro #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001245143632)
@@ -1161,7 +1184,7 @@ The support group that provides assitance for @AniFluidbot.
 ## The Archivists • 14 • Werebeast
 /newpost Google Drive mirroring group featuring IzunaRobot
 
-*Condition:* You must be a member of @TheArchivists
+*Join Condition:* You must be a member of @TheArchivists
 
 *Type:* #SFW #English #MirrorBot #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001247808161)

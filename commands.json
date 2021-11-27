@@ -1,8 +1,8 @@
 {
-  "start": "start",
-  "help": "help",
-  "getchats": "getchats",
-  "add": "add",
-  "remove": "remove",
-  "send": "send"
-}
+    "start": "kstart",
+    "help": "khelp",
+    "getchats": "getlist",
+    "add": "networkadd",
+    "remove": "networkremove",
+    "send": "newpost"
+  }

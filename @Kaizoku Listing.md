@@ -4,20 +4,20 @@ This channel inter-connects all of what Kaizoku manages, co-manages, created and
 You are free to view, check rules and join the community that you wish for.
 
 *• Telegram*
- ╔ • [Groups](https://t.me/Kaizoku/159)
- ╠ • [Channels](https://t.me/Kaizoku/160)
- ╠ • [Bots](https://t.me/Kaizoku/161)
- ╠ • [Stickers](https://t.me/Kaizoku/163)
- ╠ • [Usernames owned](https://t.me/Kaizoku/164)
- ╠ • [Bot Usernames owned](https://t.me/Kaizoku/165)
- ╠ • [Network news](https://t.me/Kaizoku/171)
- ╚ • [Bots Uptime](https://t.me/Kaizoku/168)
+ ╔• [Groups](https://t.me/Kaizoku/159)
+ ╠• [Channels](https://t.me/Kaizoku/160)
+ ╠• [Bots](https://t.me/Kaizoku/161)
+ ╠• [Stickers](https://t.me/Kaizoku/163)
+ ╠• [Usernames owned](https://t.me/Kaizoku/164)
+ ╠• [Bot Usernames owned](https://t.me/Kaizoku/165)
+ ╠• [Network news](https://t.me/Kaizoku/171)
+ ╚• [Bots Uptime](https://t.me/Kaizoku/168)
 
- *• Across the web*
- ╔ • [Websites](https://t.me/Kaizoku/162)
- ╠ • [Discord](https://t.me/Kaizoku/166)
- ╠ • [Github](http://github.com/AnimeKaizoku/)  
- ╚ • [Server status](https://status.animekaizoku.com/)
+*• Across the web*
+ ╔• [Websites](https://t.me/Kaizoku/162)
+ ╠• [Discord](https://t.me/Kaizoku/166)
+ ╠• [Github](http://github.com/AnimeKaizoku/)  
+ ╚• [Server status](https://status.animekaizoku.com/)
 
 
 
@@ -28,52 +28,52 @@ You are free to view, check rules and join the community that you wish for.
 This listing is sorted by Community 
 
 *• Kaizoku* 
- ╔ • [Kaizoku • Anime](https://t.me/Kaizoku/190)  
- ╠ • [Kaizoku • Gaming](https://t.me/Kaizoku/191)  
- ╠ • [Kaizoku • Hentai](https://t.me/Kaizoku/192)  
- ╠ • [Kaizoku • UNO](https://t.me/Kaizoku/193)  
- ╠ • [Kaizoku • Confessions](https://t.me/Kaizoku/194)  
- ╠ • [Kaizoku • Minecraft](https://t.me/Kaizoku/195)  
- ╠ • [Kaizoku • Music](https://t.me/Kaizoku/196)  
- ╠ • [Kaizoku • Connect Bots](https://t.me/Kaizoku/197)  
- ╠ • [Kaizoku • Bot's Support](https://t.me/Kaizoku/201)  
- ╚ • [Kaizoku • Intemperate ](https://t.me/Kaizoku/198)
+ ╔• [Kaizoku • Anime](https://t.me/Kaizoku/190)  
+ ╠• [Kaizoku • Gaming](https://t.me/Kaizoku/191)  
+ ╠• [Kaizoku • Hentai](https://t.me/Kaizoku/192)  
+ ╠• [Kaizoku • UNO](https://t.me/Kaizoku/193)  
+ ╠• [Kaizoku • Confessions](https://t.me/Kaizoku/194)  
+ ╠• [Kaizoku • Minecraft](https://t.me/Kaizoku/195)  
+ ╠• [Kaizoku • Music](https://t.me/Kaizoku/196)  
+ ╠• [Kaizoku • Connect Bots](https://t.me/Kaizoku/197)  
+ ╠• [Kaizoku • Bot's Support](https://t.me/Kaizoku/201)  
+ ╚• [Kaizoku • Intemperate ](https://t.me/Kaizoku/198)
  
- *• Dimensions*
- ╔ • [Anime Dimension | Telegram Got Life™](https://t.me/Kaizoku/228)  
- ╚ • [Gaming Dimension | #DuckYou](https://t.me/Kaizoku/229)
+*• Dimensions*
+ ╔• [Anime Dimension | Telegram Got Life™](https://t.me/Kaizoku/228)  
+ ╚• [Gaming Dimension | #DuckYou](https://t.me/Kaizoku/229)
  
- *• Archivists*
- ╔ • [Archivists • 0 • Zero](https://t.me/Kaizoku/240)  
- ╠ • [Archivists • 04 • Dragonia](https://t.me/Kaizoku/242)  
- ╠ • [Archivists • 05 • Gigant](https://t.me/Kaizoku/243)  
- ╠ • [Archivists • 07 • Elf](https://t.me/Kaizoku/244)  
- ╠ • [Archivists • 08 • Dwarf](https://t.me/Kaizoku/245)
- ╠ • [Archivists • 10 • Ex-Machina](https://t.me/Kaizoku/246)  
- ╠ • [Archivists • 12 • Dhampir](https://t.me/Kaizoku/247)  
- ╠ • [Archivists • 13 • Lunamana](https://t.me/Kaizoku/248)
- ╠ • [Archivists • 14 • Werebeast](https://t.me/Kaizoku/249)
- ╚ • [Archivists • 16 • Imanity • Base](https://t.me/Kaizoku/250)
+*• Archivists*
+ ╔• [Archivists • 0 • Zero](https://t.me/Kaizoku/240)  
+ ╠• [Archivists • 04 • Dragonia](https://t.me/Kaizoku/242)  
+ ╠• [Archivists • 05 • Gigant](https://t.me/Kaizoku/243)  
+ ╠• [Archivists • 07 • Elf](https://t.me/Kaizoku/244)  
+ ╠• [Archivists • 08 • Dwarf](https://t.me/Kaizoku/245)
+ ╠• [Archivists • 10 • Ex-Machina](https://t.me/Kaizoku/246)  
+ ╠• [Archivists • 12 • Dhampir](https://t.me/Kaizoku/247)  
+ ╠• [Archivists • 13 • Lunamana](https://t.me/Kaizoku/248)
+ ╠• [Archivists • 14 • Werebeast](https://t.me/Kaizoku/249)
+ ╚• [Archivists • 16 • Imanity • Base](https://t.me/Kaizoku/250)
 
- *• Sibyl*
- ╔ • [Public Safety Bureau](https://t.me/Kaizoku/220)
- ╠ • [CID • Division 01](https://t.me/Kaizoku/221)
- ╠ • [CID • Division 02](https://t.me/Kaizoku/222)
- ╚ • [CID • Division 03](https://t.me/Kaizoku/223)
+*• Sibyl*
+ ╔• [Public Safety Bureau](https://t.me/Kaizoku/220)
+ ╠• [CID • Division 01](https://t.me/Kaizoku/221)
+ ╠• [CID • Division 02](https://t.me/Kaizoku/222)
+ ╚• [CID • Division 03](https://t.me/Kaizoku/223)
 
- *• Eagle Union*
- ╔ • [Kigyō Support](https://t.me/Kaizoku/231)
- ╠ • [Kigyo | Redesigned • Support](https://t.me/Kaizoku/232)
- ╚ • [ᗜˬᗜ • Chiruzōn || チルゾーン](https://t.me/Kaizoku/233)
+*• Eagle Union*
+ ╔• [Kigyō Support](https://t.me/Kaizoku/231)
+ ╠• [Kigyo | Redesigned • Support](https://t.me/Kaizoku/232)
+ ╚• [ᗜˬᗜ • Chiruzōn || チルゾーン](https://t.me/Kaizoku/233)
 
- *• Bots and Support*
- ╔ • [Heroes Association](https://t.me/Kaizoku/207) 
- ╠ • [Shiken • Dev](https://t.me/Kaizoku/213)
- ╠ • [AniFluid Support](https://t.me/Kaizoku/238)
- ╚ • [All Might Support](https://t.me/Kaizoku/215)
+*• Bots and Support*
+ ╔• [Heroes Association](https://t.me/Kaizoku/207) 
+ ╠• [Shiken • Dev](https://t.me/Kaizoku/213)
+ ╠• [AniFluid Support](https://t.me/Kaizoku/238)
+ ╚• [All Might Support](https://t.me/Kaizoku/215)
 
- *• Other Groups*
- ╚ • [Moderation Tactics](https://t.me/Kaizoku/256)
+*• Other Groups*
+ ╚• [Moderation Tactics](https://t.me/Kaizoku/256)
 
 -------------------------------------------------
 ㅤ
@@ -81,456 +81,445 @@ This listing is sorted by Community
 
 This listing is sorted by Community 
 
- *• Kaizoku *
- ╔ • [Kaizoku • Encoded Anime](https://t.me/Kaizoku/180)  
- ╠ • [Kaizoku • Weird](https://t.me/Kaizoku/181)  
- ╠ • [Kaizoku • Gifs](https://t.me/Kaizoku/182)  
- ╠ • [Kaizoku • Memes](https://t.me/Kaizoku/183)  
- ╠ • [Kaizoku • Network](https://t.me/Kaizoku/184)  
- ╠ • [Kaizoku • Ongaku](https://t.me/Kaizoku/185)  
- ╠ • [Kaizoku • Minecraft Builds](https://t.me/Kaizoku/186)  
- ╠ • [Kaizoku • Paired Pfp's](https://t.me/Kaizoku/187)
- ╚ • [Kaizoku • Logs](https://t.me/Kaizoku/189)
+*• Kaizoku *
+ ╔• [Kaizoku • Encoded Anime](https://t.me/Kaizoku/180)  
+ ╠• [Kaizoku • Weird](https://t.me/Kaizoku/181)  
+ ╠• [Kaizoku • Gifs](https://t.me/Kaizoku/182)  
+ ╠• [Kaizoku • Memes](https://t.me/Kaizoku/183)  
+ ╠• [Kaizoku • Network](https://t.me/Kaizoku/184)  
+ ╠• [Kaizoku • Ongaku](https://t.me/Kaizoku/185)  
+ ╠• [Kaizoku • Minecraft Builds](https://t.me/Kaizoku/186)  
+ ╠• [Kaizoku • Paired Pfp's](https://t.me/Kaizoku/187)
+ ╚• [Kaizoku • Logs](https://t.me/Kaizoku/189)
 
- *• Dimensions*
- ╔ • [Anime Dimension SS // Logs | Apparently](https://t.me/Kaizoku/225) 
- ╠ • [Memes Dimension](https://t.me/Kaizoku/226)
- ╚ • [Wallpaper Dimension](https://t.me/Kaizoku/227)
+*• Dimensions*
+ ╔• [Anime Dimension SS // Logs | Apparently](https://t.me/Kaizoku/225) 
+ ╠• [Memes Dimension](https://t.me/Kaizoku/226)
+ ╚• [Wallpaper Dimension](https://t.me/Kaizoku/227)
 
- *• Archivists*
- ╔ • [The Archivists • 0.3 • Logs](https://t.me/Kaizoku/239)
- ╚ • [Archivists • 03 • Elemental • News](https://t.me/Kaizoku/241)
+*• Archivists*
+ ╔• [The Archivists • 0.3 • Logs](https://t.me/Kaizoku/239)
+ ╚• [Archivists • 03 • Elemental • News](https://t.me/Kaizoku/241)
 
- *• Sibyl*
- ╔ • [Sibyl System](https://t.me/Kaizoku/2116)
- ╠ • [Psycho Pass](https://t.me/Kaizoku/217)
- ╚ • [Public Safety Bureau • Moderation Logs](https://t.me/Kaizoku/218)
+*• Sibyl*
+ ╔• [Sibyl System](https://t.me/Kaizoku/2116)
+ ╠• [Psycho Pass](https://t.me/Kaizoku/217)
+ ╚• [Public Safety Bureau • Moderation Logs](https://t.me/Kaizoku/218)
 
- *• Eagle Union*
- ╚ • [Kigyō Updates](https://t.me/Kaizoku/230)
+*• Eagle Union*
+ ╚• [Kigyō Updates](https://t.me/Kaizoku/230)
 
- *• Bots and Support*
- ╔ • [Saitama Updates](https://t.me/Kaizoku/202)  
- ╠ • [Saitama Global Logs](https://t.me/Kaizoku/204)  
- ╠ • [Saitama Shiken • Global Logs (Dev)](https://t.me/Kaizoku/205)
- ╠ • [Heroes Association • Logs](https://t.me/Kaizoku/206)
- ╠ • [AniFluid Updates](https://t.me/Kaizoku/237)
- ╚ • [All For One • All Might Updates](https://t.me/Kaizoku/214)
+*• Bots and Support*
+ ╔• [Saitama Updates](https://t.me/Kaizoku/202)  
+ ╠• [Saitama Global Logs](https://t.me/Kaizoku/204)  
+ ╠• [Saitama Shiken • Global Logs (Dev)](https://t.me/Kaizoku/205)
+ ╠• [Heroes Association • Logs](https://t.me/Kaizoku/206)
+ ╠• [AniFluid Updates](https://t.me/Kaizoku/237)
+ ╚• [All For One • All Might Updates](https://t.me/Kaizoku/214)
 
- *• Information*
- ╔ • [No Hello](https://t.me/Kaizoku/251)  
- ╠ • [XY Problem](https://t.me/Kaizoku/252)  
- ╠ • [Don't ask to ask!](https://t.me/Kaizoku/253)
- ╚ • [How to ask smart questions?](https://t.me/Kaizoku/254)
+*• Information*
+ ╔• [No Hello](https://t.me/Kaizoku/251)  
+ ╠• [XY Problem](https://t.me/Kaizoku/252)  
+ ╠• [Don't ask to ask!](https://t.me/Kaizoku/253)
+ ╚• [How to ask smart questions?](https://t.me/Kaizoku/254)
 
- *• Content and Fun stuff*
- ╔ • [Sawada's Daily Newspaper](https://t.me/Kaizoku/234) 
- ╠ • [Made by Sky ~](https://t.me/Kaizoku/235)
- ╠ • [Plex Updates](https://t.me/Kaizoku/236)
- ╚ • [Raya Draws](https://t.me/Kaizoku/255)
+*• Content and Fun stuff*
+ ╔• [Sawada's Daily Newspaper](https://t.me/Kaizoku/234) 
+ ╠• [Made by Sky ~](https://t.me/Kaizoku/235)
+ ╠• [Plex Updates](https://t.me/Kaizoku/236)
+ ╚• [Raya Draws](https://t.me/Kaizoku/255)
 
 -------------------------------------------------
 
 ㅤ
 🤖 Bots Hosted @Kaizoku
 
-🎬 Anime and Manga
-  • @AniFluidbot 
-  • @VerdeRobot
-  • @AnimesDownloadRobot
+*🎬 Anime and Manga*
+ ╔• @AniFluidbot 
+ ╠• @VerdeRobot
+ ╚• @AnimesDownloadRobot
 
-👤 Anonymity
-  • @AnonimasuRobot
+*👤 Anonymity*
+ ╚• @AnonimasuRobot
 
-💬 Chat Bots
-  • @RinRobot
-  • @IkarosRobot
-  • @NymphRobot
+*💬 Chat Bots*
+ ╔• @RinRobot
+ ╠• @IkarosRobot
+ ╚• @NymphRobot
 
-📰 Channel Management
-  •  @GalactronBot
+*📰 Channel Management*
+ ╚•  @GalactronBot
 
-🕹 Controllerbot
-  • @Chikarobot
+*🔎 Drive Search*
+ ╚• @ArchivistsBot
 
-💴 Cryptocurrency 
-  • @ShiroeRobot
+*✨ GD Utils*
+ ╚• @LairaLoreleiRobot
 
-🔎 Drive Search
-  • @ArchivistsBot
+*🎲 Games*
+ ╚• @StalkerGameRobot
 
-✨ GD Utils
-  • @LairaLoreleiRobot
+*🗄 Github*
+ ╚• @OnePunchGitRobot
 
-🎲 Games
-  • @StalkerGameRobot
+*🧑🏻‍💻 Group Management*
+ ╔• @SaitamaRobot
+ ╠• @ShigeoRobot
+ ╠• @AllMightRobot
+ ╠• @KigyoRobot
+ ╠• @HyperRobot
+ ╠• @rKigyoBot
+ ╠• @SaitamaShikenRobot (Testing only) 
+ ╚• @SaitamaGoRobot (Testing only)
 
-🗄 Github
-  • @OnePunchGitRobot
+*🏩 Hentai content*
+ ╚• @TheChizuruBot
 
-🧑🏻‍💻 Group Management
-  • @SaitamaRobot
-  • @ShigeoRobot
-  • @AllMightRobot
-  • @KigyoRobot
-  • @HyperRobot
-  • @rKigyoBot
-  • @SaitamaShikenRobot (Testing only) 
-  • @SaitamaGoRobot (Testing only)
+*☁️ Mirror Bots*
+ ╔• @IzunaRobot
+ ╠• @EinithiRobot
+ ╠• @NyiRobot
+ ╚• @PlumRobot
 
-🏩 Hentai content
-  • @TheChizuruBot
+*🎬 Movies*
+ ╚• @MoviesDownloadRobot
 
-📊 Information and Stats
-These two are down due to an sql injection vulnerability 
-  • @RitsukoRobot (AnimeKaizoku (http://t.me/AnimeKaizoku))
-  • @StephanieDolaRobot (Archivists (http://t.me/TheArchivists))
+*🎷 Music*
+ ╔• @SpotifyNowBot
+ ╠• @MusicStreamRobot
+ ╠• @RitsuMusicBot
+ ╚• @DeezerHistoryBot
 
-✨ Kaomojis
-  • @KaomojiRobot 
+*🕸 Network Bots*
+ ╚• @KaizokuRobot
 
-☁️ Mirror Bots
-  • @IzunaRobot
-  • @EinithiRobot
-  • @NyiRobot
-  • @PlumRobot
+*⛩ Other Bots*
+ ╔• @AschenteRobot
+ ╠• @ShellderRobot
+ ╠• @JibrilRobot
+ ╠• @EneRobot
+ ╠• @SawadaRobot
+ ╠• @notdedsecbot
+ ╠• @KuromeBot
+ ╠• @RyzenShellRobot
+ ╠• @SibylSystemRobot
+ ╚• @SibylRobot
 
-🎬 Movies
-  • @MoviesDownloadRobot
+*🧲 RSS Feeds*
+ ╚• @RSSManiacRobot
 
-🎷 Music
-  • @SpotifyNowBot
-  • @MusicStreamRobot
-  • @RitsuMusicBot
-  • @DeezerHistoryBot
+*👥 Raid Protection*
+ ╚• @GoblinSlayerRobot
 
-🕸 Network Bots
-  • @KaizokuRobot
+*🖼 Sticker management*
+ ╚• @StickerStealRobot
 
-⛩ Other Bots
-  • @AschenteRobot
-  • @ShellderRobot
-  • @JibrilRobot
-  • @EneRobot
-  • @SawadaRobot
-  • @notdedsecbot
-  • @KuromeBot
-  • @RyzenShellRobot
-  • @SibylSystemRobot
-  • @SibylRobot
-
-🧲 RSS Feeds
-  • @RSSManiacRobot
-
-👥 Raid Protection
-  • @GoblinSlayerRobot
-
-🖼 Sticker management
-  • @StickerStealRobot
-
-👁‍🗨 Whisper Bot
-  • @PsstRobot
+*👁‍🗨 Whisper Bot*
+ ╚• @PsstRobot
 
 -------------------------------------------------
 
 ㅤ
-🌐 Websites @Kaizoku
-  •  AnimeKaizoku(https://animekaizoku.com/)  
-  •  AnimeKayo(https://animekayo.com/)  
-  •  MyAnime.Space(https://myanime.space/)  
-  •  Archivists(http://archivists.xyz/)
+*🌐 Websites* @Kaizoku
+ ╔• [AnimeKaizoku](https://animekaizoku.com/)  
+ ╠• [MyAnime.Space](https://myanime.space/)  
+ ╚• [Archivists](http://archivists.xyz/)
   
- ℹ️ Status page
-  •  Server Status(https://status.animekaizoku.com/)
+*ℹ️ Status page*
+ ╚• [Server Status](https://status.animekaizoku.com/)
 
 -------------------------------------------------
 
 ㅤ
-🌀 Sticker Packs @Kaizoku
-
- • @TheArchivists • @Kaizoku(http://t.me/addstickers/K4b73cccbc746fbb3f021_by_StickerStealRobot)  
- • Gato sleep • @Kaizoku(http://t.me/addstickers/Kbb69dc37db46fbb3f021_by_StickerStealRobot)  
- • Goblin Slayer • Kill Streak • @Kaizoku(http://t.me/addstickers/Kdb00a38bfd46fbb3f021_by_StickerStealRobot)  
- • Goblin Slayer • Pack 1 • @Kaizoku(http://t.me/addstickers/K6cefbc91cc46fbb3f021_by_StickerStealRobot)  
- • Goblin Slayer • Pack 2 • @Kaizoku(http://t.me/addstickers/K578d41577d46fbb3f021_by_StickerStealRobot)  
- • Goblin Slayer • Pack 3 • @Kaizoku(http://t.me/addstickers/Kef4ed8016646fbb3f021_by_StickerStealRobot)  
- • Headpats • @Kaizoku(http://t.me/addstickers/Kab2a0bf65c46fbb3f021_by_StickerStealRobot)  
- • Loli Kamehameha • @Kaizoku(http://t.me/addstickers/K08cc00fadd46fbb3f021_by_StickerStealRobot)  
- • Peek peek rawr! • @Kaizoku(http://t.me/addstickers/K56533bacf846fbb3f021_by_StickerStealRobot)  
- • Present for you • @Kaizoku(http://t.me/addstickers/Kadead4718c46fbb3f021_by_StickerStealRobot)  
- • Shut up homo • @Kaizoku(http://t.me/addstickers/K6a221b0bde46fbb3f021_by_StickerStealRobot)  
- • You are a Cutie • @Kaizoku(http://t.me/addstickers/Kb27f704cfb46fbb3f021_by_StickerStealRobot)  
- • Neko Couples • @Kaizoku(http://t.me/addstickers/K030d3079da46fbb3f021_by_StickerStealRobot)
+*🌀 Sticker Packs* @Kaizoku
+ ╔• [@TheArchivists • @Kaizoku](http://t.me/addstickers/K4b73cccbc746fbb3f021_by_StickerStealRobot)  
+ ╠• [Gato sleep • @Kaizoku](http://t.me/addstickers/Kbb69dc37db46fbb3f021_by_StickerStealRobot)  
+ ╠• [Goblin Slayer • Kill Streak • @Kaizoku](http://t.me/addstickers/Kdb00a38bfd46fbb3f021_by_StickerStealRobot)  
+ ╠• [Goblin Slayer • Pack 1 • @Kaizoku](http://t.me/addstickers/K6cefbc91cc46fbb3f021_by_StickerStealRobot)  
+ ╠• [Goblin Slayer • Pack 2 • @Kaizoku](http://t.me/addstickers/K578d41577d46fbb3f021_by_StickerStealRobot)  
+ ╠• [Goblin Slayer • Pack 3 • @Kaizoku](http://t.me/addstickers/Kef4ed8016646fbb3f021_by_StickerStealRobot)  
+ ╠• [Headpats • @Kaizoku](http://t.me/addstickers/Kab2a0bf65c46fbb3f021_by_StickerStealRobot)  
+ ╠• [Loli Kamehameha • @Kaizoku](http://t.me/addstickers/K08cc00fadd46fbb3f021_by_StickerStealRobot)  
+ ╠• [Peek peek rawr! • @Kaizoku](http://t.me/addstickers/K56533bacf846fbb3f021_by_StickerStealRobot)  
+ ╠• [Present for you • @Kaizoku](http://t.me/addstickers/Kadead4718c46fbb3f021_by_StickerStealRobot)  
+ ╠• [Shut up homo • @Kaizoku](http://t.me/addstickers/K6a221b0bde46fbb3f021_by_StickerStealRobot)  
+ ╠• [You are a Cutie • @Kaizoku](http://t.me/addstickers/Kb27f704cfb46fbb3f021_by_StickerStealRobot)  
+ ╚• [Neko Couples • @Kaizoku](http://t.me/addstickers/K030d3079da46fbb3f021_by_StickerStealRobot)
 -------------------------------------------------
 
-®️ Reserved Usernames @Kaizoku
+**®️ Reserved Usernames** @Kaizoku
 
-Channels:
-• @Airi_Gotou
-• @AllForOneUpdates
-• @Anime480
-• @Anime720p
-• @Anime_Kaizoku
-• @AnimeGossips
-• @animegrimore
-• @ArgonautoKun
-• @ArmamentHaki
-• @AskHistorians
-• @BellCranelKun
-• @BotsKaizoku
-• @ChibiKanojo
-• @ClickMeForReveal
-• @Confessionskaizoku
-• @ConnectBots
-• @CsgoBrotherhood
-• @CymaticScanner
-• @DemonStable
-• @GarbageInGarbageOut
-• @Gotou_Airi
-• @GPLViolators
-• @HaoshokunoHaki
-• @HaremBots
-• @hentaidimension
-• @HentaiKanojo
-• @HowToMakeOwnBotFullVideo
-• @IdleTransfiguration
-• @Intemperate
-• @Kaizoku
-• @Kaizoku480p
-• @Kaizoku720p
-• @Kaizoku1080p
-• @KaizokuGifs
-• @KaizokuMinecraft
-• @KaizokuNetwork
-• @KawaiiKanojo
-• @KawaiiKouhai
-• @KenbunshokunoHaki
-• @KillerLoli
-• @KuroAkuma
-• @Loli_Killer
-• @MessagingMe
-• @MildlyInfuriating
-• @MinecartWench
-• @MobSupport
-• @MobUpdates
-• @ModerationTactics
-• @MuseAsiaOnline
-• @MuseAsiaRSS
-• @MusicKaizoku
-• @MusicStreamingUB
-• @NanamiMinami
-• @NekoMaterial
-• @OneForAllSupport
-• @OnePunchDev
-• @OnePunchLogs
-• @OnePunchSupport
-• @OnePunchUpdates
-• @Pairedpfp
-• @PlusUltraSupport
-• @PlusUltraUpdates
-• @Praseodymium
-• @PsychoPass
-• @PublicSafetyBureau
-• @RealAinzOoalGown
-• @RealGoblinSlayer
-• @RealMomonga
-• @RealOverlord
-• @RealSawada
-• @RealTsuna
-• @SaitamaSupport
-• @Sawada
-• @SawadaMeetsWeirdoes
-• @SawadaSawada
-• @SawadaTsuna
-• @SawadaTsunayoshi
-• @SawadaTsuni
-• @SawaTsun
-• @Shenron
-• @SibylSystem
-• @SibylScanner
-• @SibylTest
-• @StickersKaizoku
-• @Tashinori
-• @TheArchivists
-• @TheGoblinSlayer
-• @ThemesWorkshop
-• @TheRealGoblinSlayer
-• @TheSuperFight
-• @TooLazyToTypeAUsername
-• @Trippyheaven
-• @TsunayoshiSawada
-• @TsunSawada
-• @VoidCentury
-• @WeebNews
-• @WeebSpace
-• @WorkRants
+╔• `@Airi_Gotou`
+╠• `@AllForOneUpdates`
+╠• `@Anime480`
+╠• `@Anime720p`
+╠• `@Anime_Kaizoku`
+╠• `@AnimeGossips`
+╠• `@animegrimore`
+╠• `@ArgonautoKun`
+╠• `@ArmamentHaki`
+╠• `@AskHistorians`
+╠• `@BellCranelKun`
+╠• `@BotsKaizoku`
+╠• `@ChibiKanojo`
+╠• `@ClickMeForReveal`
+╠• `@Confessionskaizoku`
+╠• `@ConnectBots`
+╠• `@CsgoBrotherhood`
+╠• `@CymaticScanner`
+╠• `@DemonStable`
+╠• `@GarbageInGarbageOut`
+╠• `@Gotou_Airi`
+╠• `@GPLViolators`
+╠• `@HaoshokunoHaki`
+╠• `@HaremBots`
+╠• `@hentaidimension`
+╠• `@HentaiKanojo`
+╠• `@HowToMakeOwnBotFullVideo`
+╠• `@IdleTransfiguration`
+╠• `@Intemperate`
+╠• `@Kaizoku`
+╠• `@Kaizoku480p`
+╠• `@Kaizoku720p`
+╠• `@Kaizoku1080p`
+╠• `@KaizokuGifs`
+╠• `@KaizokuMinecraft`
+╠• `@KaizokuNetwork`
+╠• `@KawaiiKanojo`
+╠• `@KawaiiKouhai`
+╠• `@KenbunshokunoHaki`
+╠• `@KillerLoli`
+╠• `@KuroAkuma`
+╠• `@Loli_Killer`
+╠• `@MessagingMe`
+╠• `@MildlyInfuriating`
+╠• `@MinecartWench`
+╠• `@MobSupport`
+╠• `@MobUpdates`
+╠• `@ModerationTactics`
+╠• `@MuseAsiaOnline`
+╠• `@MuseAsiaRSS`
+╠• `@MusicKaizoku`
+╠• `@MusicStreamingUB`
+╠• `@NanamiMinami`
+╠• `@NekoMaterial`
+╠• `@OneForAllSupport`
+╠• `@OnePunchDev`
+╠• `@OnePunchLogs`
+╠• `@OnePunchSupport`
+╠• `@OnePunchUpdates`
+╠• `@Pairedpfp`
+╠• `@PlusUltraSupport`
+╠• `@PlusUltraUpdates`
+╠• `@Praseodymium`
+╠• `@PsychoPass`
+╠• `@PublicSafetyBureau`
+╠• `@RealAinzOoalGown`
+╠• `@RealGoblinSlayer`
+╠• `@RealMomonga`
+╠• `@RealOverlord`
+╠• `@RealSawada`
+╠• `@RealTsuna`
+╠• `@SaitamaSupport`
+╠• `@Sawada`
+╠• `@SawadaMeetsWeirdoes`
+╠• `@SawadaSawada`
+╠• `@SawadaTsuna`
+╠• `@SawadaTsunayoshi`
+╠• `@SawadaTsuni`
+╠• `@SawaTsun`
+╠• `@Shenron`
+╠• `@SibylSystem`
+╠• `@SibylScanner`
+╠• `@SibylTest`
+╠• `@StickersKaizoku`
+╠• `@Tashinori`
+╠• `@TheArchivists`
+╠• `@TheGoblinSlayer`
+╠• `@ThemesWorkshop`
+╠• `@TheRealGoblinSlayer`
+╠• `@TheSuperFight`
+╠• `@TooLazyToTypeAUsername`
+╠• `@Trippyheaven`
+╠• `@TsunayoshiSawada`
+╠• `@TsunSawada`
+╠• `@VoidCentury`
+╠• `@WeebNews`
+╠• `@WeebSpace`
+╚• `@WorkRants`
 
 -------------------------------------------------
-®️ Reserved Usernames @Kaizoku
+**®️ Reserved Bot Usernames** @Kaizoku - Part I
 
-Bots: 
-• @AkatsukiRobot
-• @AllMightRobot
-• @AllMightTestRobot
-• @AnonimasuRobot
-• @ArchivistsBot
-• @AriaThePirateRobot
-• @AschenteRobot
-• @AwayRobot
-• @AwooRobot
-• @AzrielRobot
-• @BeatriceRobot
-• @BeatricsRobot
-• @BlankRobot
-• @BlastRobot
-• @BomberGameRobot
-• @BrookRobot
-• @ChikaRobot
-• @ConfessionRobot
-• @ConfessionsRobot
-• @CrimeCoefficient
-• @CriminalDanceRobot
-• @DataCopyRobot
-• @EinithiRobot
-• @FortissimoBot
-• @GoblinSlayerRobot
-• @GoblinSlayerSupportBot
-• @HCaptchaRobot
-• @HcaptchaRobot
-• @HentaiDisgramRobot
-• @HentaiimagesRobot
-• @HerokuManagerRobot
-• @HusbandoHaremRobot
-• @HusbandoRobot
-• @IDScrapeRobot
-• @IkarosRobot
-• @ImoutoRobot
-• @IntellivoidRobot
-• @IzunaRobot
-• @JingleRobot
-• @KaizokuBots
-• @KaizokuRobot
-• @KamoJiRobot
-• @KamojiRobot
-• @KanojoRobot
-• @KouhaiRobot
-• @LairaLoreleiRobot
-• @LairaRobot
-• @LoliHaremBot
-• @MakoMitsukiRobot
-• @MangaRobot
-• @MemeingBot
-• @Memeingbot
-• @MinecraftChatRobot
-• @MinecraftDisgramRobot
-• @MissRoseRobot
-• @MnemonicRobot
-• @MurmurRobot
-• @MusicStreamRobot
-• @MySpotifyRobot
-• @NewMemesBot
-• @NewYearGreetingsRobot
-• @NoHindiRobot
-• @NyaaRobot
-• @NyiRobot
-• @NymphRobot
-• @OldDeusRobot
-• @OnePunchGitRobot
-• @PinRobot
-• @PlayUNORobot
-• @PlumRobot
-• @PokeDexRobot
-• @PsstRobot
-• @PsychoPassRobot
-• @PwnedRobot
-• @QuotLyRobot
-• @RemuinderRobot
-• @RinRobot
-• @RitsukoRobot
-• @RSSManiacRobot
-• @RyzenShellRobot
-• @SaitamaGobot
-• @SaitamaGoRobot
-• @SaitamaRobot
-• @SaitamaShikenRobot
-• @SawadaBot
-• @SawadaRobot
-• @SebastianMichaelisRobot
-• @ShellderRobot
-• @ShigeoRobot
-• @ShinkuRobot
-• @ShiroeRobot
-• @SibylRobot
-• @SibylSystemMonitorRobot
-• @SpamProtectionRobot
-• @StalkerGameRobot
-• @StealAlertsRobot
-• @StephanieDolaRobot
-• @StickerBlacklistRobot
-• @StickerSnipeRobot
-• @StickersScoutRobot
-• @StickersSearchRobot
-• @SumimiRobot
-• @SumomoRobot
-• @SyncBot1Bot
-• @SyncBot2Bot
-• @SyncBot3Bot
-• @SyncBot4Bot
-• @TellerRobot
-• @ThanksStickerBot
-• @ThankStickersBot
-• @ThankStickersRobot
-• @TorrentingRobot
-• @TranscriberRobot
-• @UbuntuRobot
-• @UnscrambleRobot
-• @VerdeRobot
-• @Waifu2xRobot
-• @WaifuHaremBot
-• @WaifuHaremRobot
-• @WeebNewsBot
-• @XnYRobot
-• @YarikoRobot
-• @YetANotherTorrentBot
-• @YetAnotherTorrentBot
-• @YunyunRobot
-• @YuriAlphaRobot
-• @ZaWarudoRobot
-• @ZedTheRobot
+╔• `@AkatsukiRobot`
+╠• `@AllMightRobot`
+╠• `@AllMightTestRobot`
+╠• `@AnonimasuRobot`
+╠• `@ArchivistsBot`
+╠• `@AriaThePirateRobot`
+╠• `@AschenteRobot`
+╠• `@AwayRobot`
+╠• `@AwooRobot`
+╠• `@AzrielRobot`
+╠• `@BeatriceRobot`
+╠• `@BeatricsRobot`
+╠• `@BlankRobot`
+╠• `@BlastRobot`
+╠• `@BomberGameRobot`
+╠• `@BrookRobot`
+╠• `@ChikaRobot`
+╠• `@ConfessionRobot`
+╠• `@ConfessionsRobot`
+╠• `@CrimeCoefficient`
+╠• `@CriminalDanceRobot`
+╠• `@DataCopyRobot`
+╠• `@EinithiRobot`
+╠• `@FortissimoBot`
+╠• `@GoblinSlayerRobot`
+╠• `@GoblinSlayerSupportBot`
+╠• `@HCaptchaRobot`
+╠• `@HcaptchaRobot`
+╠• `@HentaiDisgramRobot`
+╠• `@HentaiimagesRobot`
+╠• `@HerokuManagerRobot`
+╠• `@HusbandoHaremRobot`
+╠• `@HusbandoRobot`
+╠• `@IDScrapeRobot`
+╠• `@IkarosRobot`
+╠• `@ImoutoRobot`
+╠• `@IntellivoidRobot`
+╠• `@IzunaRobot`
+╠• `@JingleRobot`
+╠• `@KaizokuBots`
+╠• `@KaizokuRobot`
+╠• `@KamoJiRobot`
+╠• `@KamojiRobot`
+╠• `@KanojoRobot`
+╠• `@KouhaiRobot`
+╠• `@LairaLoreleiRobot`
+╠• `@LairaRobot`
+╠• `@LoliHaremBot`
+╠• `@MakoMitsukiRobot`
+╠• `@MangaRobot`
+╠• `@MemeingBot`
+╠• `@Memeingbot`
+╠• `@MinecraftChatRobot`
+╠• `@MinecraftDisgramRobot`
+╠• `@MissRoseRobot`
+╠• `@MnemonicRobot`
+╠• `@MurmurRobot`
+╠• `@MusicStreamRobot`
+╠• `@MySpotifyRobot`
+╠• `@NewMemesBot`
+╠• `@NewYearGreetingsRobot`
+╠• `@NoHindiRobot`
+╠• `@NyaaRobot`
+╠• `@NyiRobot`
+╠• `@NymphRobot`
+╠• `@OldDeusRobot`
+╠• `@OnePunchGitRobot`
+╠• `@PinRobot`
+╠• `@PlayUNORobot`
+╠• `@PlumRobot`
+╠• `@PokeDexRobot`
+╠• `@PsstRobot`
+╠• `@PsychoPassRobot`
+╠• `@PwnedRobot`
+╠• `@QuotLyRobot`
+╠• `@RemuinderRobot`
+╠• `@RinRobot`
+╠• `@RitsukoRobot`
+╠• `@RSSManiacRobot`
+╠• `@RyzenShellRobot`
+╠• `@SaitamaGobot`
+╠• `@SaitamaGoRobot`
+╠• `@SaitamaRobot`
+╠• `@SaitamaShikenRobot`
+╠• `@SawadaBot`
+╠• `@SawadaRobot`
+╠• `@SebastianMichaelisRobot`
+╠• `@ShellderRobot`
+╠• `@ShigeoRobot`
+╠• `@ShinkuRobot`
+╠• `@ShiroeRobot`
+╠• `@SibylRobot`
+╠• `@SibylSystemMonitorRobot`
+╠• `@SpamProtectionRobot`
+╠• `@StalkerGameRobot`
+╠• `@StealAlertsRobot`
+╠• `@StephanieDolaRobot`
+╚• `@StickerBlacklistRobot`
 
+*®️ Reserved Bot Usernames* @Kaizoku - Part II
+  ╚• [Part I](https://t.me/Kaizoku/165)
+
+╔• `@StickerSnipeRobot`
+╠• `@StickersScoutRobot`
+╠• `@StickersSearchRobot`
+╠• `@SumimiRobot`
+╠• `@SumomoRobot`
+╠• `@SyncBot1Bot`
+╠• `@SyncBot2Bot`
+╠• `@SyncBot3Bot`
+╠• `@SyncBot4Bot`
+╠• `@TellerRobot`
+╠• `@ThanksStickerBot`
+╠• `@ThankStickersBot`
+╠• `@ThankStickersRobot`
+╠• `@TorrentingRobot`
+╠• `@TranscriberRobot`
+╠• `@UbuntuRobot`
+╠• `@UnscrambleRobot`
+╠• `@VerdeRobot`
+╠• `@Waifu2xRobot`
+╠• `@WaifuHaremBot`
+╠• `@WaifuHaremRobot`
+╠• `@WeebNewsBot`
+╠• `@XnYRobot`
+╠• `@YarikoRobot`
+╠• `@YetANotherTorrentBot`
+╠• `@YetAnotherTorrentBot`
+╠• `@YunyunRobot`
+╠• `@YuriAlphaRobot`
+╠• `@ZaWarudoRobot`
+╚• `@ZedTheRobot`
+
+-------------------------------------------------
 ㅤ
-👾 Discord @Kaizoku
-
-  •  Kaizoku Network(https://discord.animekaizoku.com/)
+*👾 Discord @Kaizoku*
+  ╚• [Kaizoku Network](https://discord.animekaizoku.com/)
 
 -------------------------------------------------
 
-📰 Latest News Update on @Kaizoku:
+*📰 Latest News Updates* @Kaizoku:
+
+ • Saturday 27-11-2021
+✓ Entire [network channel](https://t.me/Kaizoku/158) redesigned and rearranged, all old links are invalid but the overhul to the network channel is massive
 
  • Wednesday - 24-11-2021
-✓ Overhaul on the index listing for main(https://t.me/Kaizoku/4), groups(https://t.me/Kaizoku/5) and channels(https://t.me/Kaizoku/6)
+✓ Overhaul on the index listing for [main](https://t.me/Kaizoku/158), [groups](https://t.me/Kaizoku/159) and [channels](https://t.me/Kaizoku/160)
 
  • Wednesday - 27-10-2021
-✓ A dedicated group for bots support(https://t.me/Kaizoku/145) added, for the bots that have no fixed support group like spotifynow, kazuma, etc
+✓ A dedicated group for bots [support](https://t.me/Kaizoku/201) added, for the bots that have no fixed support group like spotifynow, kazuma, etc
 
  • Tuesday - 26-10-2021
-✓ Added an automation(https://t.me/Kaizoku/143) to check if bots are up or not
+✓ Added an [automation](https://t.me/Kaizoku/168) to check if bots are up or not
 
  • Monday - 18-10-2021
-✓ We added the Minecraft Builds(https://t.me/Kaizoku/139) channel
+✓ We added the [Minecraft Builds](https://t.me/Kaizoku/186) channel
 
  • Tuesday - 05-10-2021
-✓ @ShigeoRobot added to network. read here(https://t.me/OnePunchUpdates/366) 
+✓ @ShigeoRobot added to network. read [here](https://t.me/OnePunchUpdates/366) 
 
  • Friday - 01-10-2021
 ✓ Deleted terraria group and took the server down permanently because of nearly zero activity
 
  • Friday - 10-09-2021
-✓ RayaDraws(https://t.me/Kaizoku/136) and PairedPfp's(https://t.me/Kaizoku/137) joined the network
+✓ [RayaDraws](https://t.me/Kaizoku/255) and [PairedPfps](https://t.me/Kaizoku/187) joined the network
 
  • Monday - 30-08-2021
 ✓ Updated the bots list
-✓ Added status page(https://status.animekaizoku.com/) to listing
+✓ Added status [page](https://status.animekaizoku.com/) to listing
 ✓ Added this news updates section, will post edits here so I remember what im upto on this
 
 -------------------------------------------------

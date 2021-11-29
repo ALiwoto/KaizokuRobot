@@ -11,6 +11,7 @@ You are free to view, check rules and join the community that you wish for.
  ╠• [Usernames owned](https://t.me/Kaizoku/164)
  ╠• [Bot Usernames owned](https://t.me/Kaizoku/165)
  ╠• [Network news](https://t.me/Kaizoku/171)
+ ╠• [Telegram Lang Packs](https://t.me/Kaizoku/170)
  ╚• [Bots Uptime](https://t.me/Kaizoku/168)
 
 *• Across the web*

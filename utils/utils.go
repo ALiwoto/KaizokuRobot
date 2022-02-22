@@ -8,9 +8,12 @@ import (
 	"log"
 	"math/rand"
 	"net/http"
+	"net/url"
 	"os"
 	"strings"
 	"time"
+
+	"github.com/PaulSonOfLars/gotgbot/ext"
 )
 
 const ConfigJsonPath string = "config.json"
@@ -253,4 +256,17 @@ func GetStringInBetweenTwoString(str string, startS string, endS string) (result
 	}
 	result = newS[:e]
 	return result, true
+}
+
+func GetChat(chatId string, b ext.Bot) (*ext.Chat, error) {
+	v := url.Values{}
+	v.Add("chat_id", chatId)
+
+	r, err := b.Get("getChat", v)
+	if err != nil {
+		return nil, err
+	}
+
+	c := ext.Chat{Bot: b}
+	return &c, json.Unmarshal(r, &c)
 }

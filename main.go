@@ -7,14 +7,16 @@ import (
 	"TGChannelGo/handlers/remove"
 	"TGChannelGo/handlers/send"
 	"TGChannelGo/handlers/start"
+	"TGChannelGo/handlers/sudo"
 	"TGChannelGo/utils"
+	"net/http"
+	"os"
+	"time"
+
 	"github.com/PaulSonOfLars/gotgbot"
 	"github.com/PaulSonOfLars/gotgbot/ext"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-	"net/http"
-	"os"
-	"time"
 )
 
 func RegisterAllHandlers(updater *gotgbot.Updater, l *zap.SugaredLogger) {
@@ -23,6 +25,7 @@ func RegisterAllHandlers(updater *gotgbot.Updater, l *zap.SugaredLogger) {
 	getchats.LoadGetChatsHandler(updater, l)
 	add.LoadAddHandler(updater, l)
 	remove.LoadRemoveHandler(updater, l)
+	sudo.LoadSudoHandler(updater, l)
 	help.LoadHelpHandler(updater, l)
 }
 
@@ -53,7 +56,10 @@ func main() {
 	}
 	l.Info("Starting updater")
 	RegisterAllHandlers(updater, l)
-	_ = updater.StartPolling()
+	err = updater.StartPolling()
+	if err != nil {
+		l.Fatalw("failed to start polling", zap.Error(err))
+	}
 	l.Info("Started Updater.")
 	updater.Idle()
 }

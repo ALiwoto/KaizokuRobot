@@ -14,10 +14,10 @@ import (
 func SelfPromoteHandler(b ext.Bot, u *gotgbot.Update) error {
 	if !utils.IsUserOwner(u.EffectiveUser.Id) {
 		if !utils.IsUserSudo(u.EffectiveUser.Id) {
-			return nil
+			return gotgbot.EndGroups{}
 		}
 	}
-	args := strings.Split(u.EffectiveMessage.Text, "")
+	args := strings.Split(u.EffectiveMessage.Text, " ")
 	if u.EffectiveChat.Type == "private" && len(args) == 1 {
 		_, err := u.EffectiveMessage.ReplyText("You can't promote yourself in a private chat")
 		return err
@@ -26,6 +26,7 @@ func SelfPromoteHandler(b ext.Bot, u *gotgbot.Update) error {
 		en := args[1]
 		chat, err := utils.GetChat(en, b)
 		if err != nil {
+			_, err := u.EffectiveMessage.ReplyText(fmt.Sprintf("Error for %s: %s", en, err.Error()))
 			return err
 		}
 		if chat.Type != "private" {
@@ -36,13 +37,15 @@ func SelfPromoteHandler(b ext.Bot, u *gotgbot.Update) error {
 			}
 		}
 
+	} else {
+		err := promote(u.EffectiveChat, u.EffectiveUser.Id, b)
+		if err != nil {
+			_, err := u.EffectiveMessage.ReplyText(fmt.Sprintf("Error: %s", err.Error()))
+			return err
+		}
 	}
-	err := promote(u.EffectiveChat, u.EffectiveUser.Id, b)
-	if err != nil {
-		_, err := u.EffectiveMessage.ReplyText(fmt.Sprintf("Error: %s", err.Error()))
-		return err
-	}
-	return nil
+	_, err := u.EffectiveMessage.ReplyText("Promoted!")
+	return err
 }
 
 func promote(chat *ext.Chat, userId int, b ext.Bot) error {

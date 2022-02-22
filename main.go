@@ -20,12 +20,12 @@ import (
 )
 
 func RegisterAllHandlers(updater *gotgbot.Updater, l *zap.SugaredLogger) {
+	sudo.LoadSudoHandler(updater, l)
 	start.LoadStartHandler(updater, l)
 	send.LoadSendHandler(updater, l)
 	getchats.LoadGetChatsHandler(updater, l)
 	add.LoadAddHandler(updater, l)
 	remove.LoadRemoveHandler(updater, l)
-	sudo.LoadSudoHandler(updater, l)
 	help.LoadHelpHandler(updater, l)
 }
 

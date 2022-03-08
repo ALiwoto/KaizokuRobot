@@ -718,6 +718,21 @@ Type: #SFW #Bots #Support #Public
 {image:https://telegra.ph/file/187cd1316577670f22718.jpg:imageend}
 {🤖 Kaizoku • Bot's Support}{*-1001138194012}
 
+
+## ☠️ Kaizoku • Genshin
+
+/newpost Love Genshin impact? 
+Then this is where you belong, along with a lot of Genshin Impact fans. 
+
+_"What does freedom really mean, when demanded of you by a god?"_
+
+Type: #SFW #Gaming #GenshinImpact #Public
+[❕ Rules](buttonurl://t.me/SaitamaRobot?start=-1001676724648)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+[👾 Discord](buttonurl://https://discord.animekaizoku.com:same)
+{image:https://telegra.ph/file/2321d1c1ca3fed4ce8e18.png:imageend}
+{💫 Kaizoku • Genshin}{*-1001676724648}
+
 ### Heroes Association ###
 
 ## Heroes Association • Saitama Updates

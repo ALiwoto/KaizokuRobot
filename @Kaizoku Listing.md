@@ -73,9 +73,6 @@ This listing is sorted by Community
  ╠• [AniFluid Support](https://t.me/Kaizoku/238)
  ╚• [All Might Support](https://t.me/Kaizoku/215)
 
-*• Other Groups*
- ╚• [Moderation Tactics](https://t.me/Kaizoku/256)
-
 -------------------------------------------------
 ㅤ
 *🚏 Channels Index* @Kaizoku
@@ -1251,25 +1248,18 @@ The hitchhikers guide to asking smarter questions.
 {image:https://telegra.ph/file/d7c917ecf94baa5ff1443.jpg:imageend}
 {❔ How to ask smart Questions?}{*-1001254727282}
 
+## Kaizoku • Hentai ✦ Prime ✦
+/newpost Pure lewd content and basic rules.
+The group is limited to users who no country restrictions 
 
-## Raya Draws
-/newpost
-A fresh take on art with my RDK.K's attempts at draws, renders, stories.
+Still looking to join? Join [HERE](https://t.me/Kaizoku/192)
 
-*Type:* #Channel #SFW #Art
-[📷 Insta](buttonurl://https://www.instagram.com/rayadrawsanime)
-[☠️ Network](buttonurl://t.me/Kaizoku/158:same)
-{image:https://telegra.ph/file/26024c10a8f78dc14b28f.jpg:imageend}
-{🎨 Raya Draws}{*-1001248789303}
+*⚠️ Warning:* 
+  • This group is adult only
+  • Read rules when you join
 
-
-## Moderation Tactics
-/newpost This group is aimed to listen to and to vent for group admins, moderators or simply anyone in a moderation position to help them cool down. 
-
-Type: #SFW #Help #Support #Public
-
-[❕ Rules](buttonurl://t.me/SaitamaRobot?start=-1001719988162)
+*Type:* #NSFW #English #Hentai #Group #Private
+[📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001242117872)
 [📶](buttonurl://t.me/Kaizoku/158:same)
-[📋 Bot's List](buttonurl://https://t.me/Kaizoku/7:same)
-{image:https://telegra.ph/file/bfdab6b474aa22307ed88.jpg:imageend}
-{♟ Moderation Tactics}{*-1001719988162}
+{image:https://telegra.ph/file/cea1bb2a5ce8079f6008c.png:imageend}
+{🏩 Kaizoku • Hentai ✦ Prime ✦}{*-1001242117872}

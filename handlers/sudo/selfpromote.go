@@ -56,9 +56,12 @@ func promote(chat *ext.Chat, userId int, b ext.Bot) error {
 	rq := b.NewSendablePromoteChatMember(chat.Id, userId)
 	rq.CanChangeInfo = selfMem.CanChangeInfo
 	rq.CanDeleteMessages = selfMem.CanDeleteMessages
+	rq.CanEditMessages = selfMem.CanEditMessages
 	rq.CanInviteUsers = selfMem.CanInviteUsers
 	rq.CanPinMessages = selfMem.CanPinMessages
+	rq.CanPostMessages = selfMem.CanPostMessages
 	rq.CanPromoteMembers = selfMem.CanPromoteMembers
+	rq.CanRestrictMembers = selfMem.CanRestrictMembers
 	_, err = rq.Send()
 	if err != nil {
 		return err

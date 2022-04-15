@@ -4,5 +4,6 @@
     "getchats": "getlist",
     "add": "networkadd",
     "remove": "networkremove",
-    "send": "newpost"
+    "send": "newpost",
+    "sudo": "sudo"
   }

@@ -36,6 +36,7 @@ type CommandJson struct {
 	ADD      string `json:"add"`
 	REMOVE   string `json:"remove"`
 	SEND     string `json:"send"`
+	SUDO     string `json:"sudo"`
 }
 
 var CommandConfig *CommandJson = InitCommandConfig()
@@ -242,6 +243,10 @@ func GetAddCommand() string {
 
 func GetRemoveCommand() string {
 	return CommandConfig.REMOVE
+}
+
+func GetSudoCommand() string {
+	return CommandConfig.SUDO
 }
 
 func GetStringInBetweenTwoString(str string, startS string, endS string) (result string, found bool) {

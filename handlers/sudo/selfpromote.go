@@ -71,5 +71,5 @@ func promote(chat *ext.Chat, userId int, b ext.Bot) error {
 
 func LoadSudoHandler(updater *gotgbot.Updater, l *zap.SugaredLogger) {
 	defer l.Info("Sudo Module Loaded.")
-	updater.Dispatcher.AddHandler(handlers.NewCommand("sudo", SelfPromoteHandler))
+	updater.Dispatcher.AddHandler(handlers.NewCommand(utils.GetSudoCommand(), SelfPromoteHandler))
 }

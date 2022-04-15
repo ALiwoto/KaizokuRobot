@@ -3,6 +3,7 @@ package help
 import (
 	"TGChannelGo/utils"
 	"fmt"
+
 	"github.com/PaulSonOfLars/gotgbot"
 	"github.com/PaulSonOfLars/gotgbot/ext"
 	"github.com/PaulSonOfLars/gotgbot/handlers"
@@ -22,7 +23,8 @@ func HelpHandler(b ext.Bot, u *gotgbot.Update) error {
 		"<code>/%v</code> : <i>The add command for adding new chat id to json.</i>\n\n"+
 		"<code>/%v</code> : <i>The remove command for removing chat id from json.</i>\n\n"+
 		"<code>/%v</code> : <i>The command which is used to get all chats in json.</i>\n\n"+
-		"/%v : <i>Click on this to get more info about this command.</i>", utils.GetStartCommand(), utils.GetSendCommand(), utils.GetAddCommand(), utils.GetRemoveCommand(), utils.GetGetChatsCommand(), utils.GetHelpCommand())
+		"<code>/%v</code> : <i>The command which is used to promote sudo users in chats/channels.</i>\n\n"+
+		"<code>/%v</code> : <i>Click on this to get more info about this command.</i>", utils.GetStartCommand(), utils.GetSendCommand(), utils.GetAddCommand(), utils.GetRemoveCommand(), utils.GetGetChatsCommand(), utils.GetSudoCommand(), utils.GetHelpCommand())
 	b.ReplyHTML(u.EffectiveChat.Id, message, u.EffectiveMessage.MessageId)
 	return nil
 }

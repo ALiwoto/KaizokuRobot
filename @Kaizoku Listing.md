@@ -1263,3 +1263,23 @@ Still looking to join? Join [HERE](https://t.me/Kaizoku/192)
 [📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/cea1bb2a5ce8079f6008c.png:imageend}
 {🏩 Kaizoku • Hentai ✦ Prime ✦}{*-1001242117872}
+
+## Waifu Media • Hot Anime Girl
+/newpost Cute girls in eccentric dresses and poses! whats not to like?
+Join here for a collection of eye catching waifus.
+
+*Type:* #SFW #Channel #Public #Wallpapers #Waifu
+[🏠 Group](buttonurl://t.me/AnimeKaizoku)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+{image:https://telegra.ph/file/10bc8b51c72ab6370eeb9.jpg:imageend}
+{🍓 Waifu Media • Hot Anime Girl}{*-1001707042458}
+
+## Husbando Media • Hot Anime Boys
+/newpost Levi isnt the only option to fan girl about, join here to see a collection of Husbandos. 
+Completely managed by Girls, this channel is dedicated to collecting quality husbandos at their finest!
+
+*Type:* #SFW #Channel #Public #Wallpapers #Husbandos
+[🏠 Group](buttonurl://t.me/AnimeKaizoku)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+{image:https://telegra.ph/file/207a5e8107418a4c98403.png:imageend}
+{🌶 Husbando Media • Hot Anime Boys}{*-1001592539169}

@@ -1283,3 +1283,20 @@ Completely managed by Girls, this channel is dedicated to collecting quality hus
 [📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/207a5e8107418a4c98403.png:imageend}
 {🌶 Husbando Media • Hot Anime Boys}{*-1001592539169}
+
+
+## ☠️ Kaizoku • Gourmet • Food is religion!
+/newpost "Food maybe be essential as fuel for the body. But good food is fuel essential for the soul"
+Welcome to the food junction! All that goes here is just talks about food, sharing what you are cooking and more. 
+
+*Type:* #SFW #English #Group #Public #Food
+[📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001790305748)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+{image:https://telegra.ph/file/06dbdeaab8070e9b10554.jpg:imageend}
+{🍱 Kaizoku • Gourmet}{*-1001790305748}
+
+
+Cover Images Sheet
+=========
+https://telegra.ph/Kaizoku-Robot---Images-11-27
+=========

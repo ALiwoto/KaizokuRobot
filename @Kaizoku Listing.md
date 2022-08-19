@@ -119,79 +119,79 @@ This listing is sorted by Community
  ╔• [No Hello](https://t.me/Kaizoku/251)  
  ╠• [XY Problem](https://t.me/Kaizoku/252)  
  ╠• [Don't ask to ask!](https://t.me/Kaizoku/253)
- ╚• [How to ask smart questions?](https://t.me/Kaizoku/254)
+ ╠• [How to ask smart questions?](https://t.me/Kaizoku/254)
+ ╚• [ Weeb Central • Anime and Manga News]()
 
-*• Content and Fun stuff*
+*• Anime and Fandom*
+ ╔• [Weeb Central • Anime and Manga News](https://t.me/Kaizoku/276)
+ ╠• [Waifu Media • Hot Anime Girls](https://t.me/Kaizoku/271) 
+ ╚• [Husbando Media • Hot Anime Boys](https://t.me/Kaizoku/272)
+
+*• Other Content*
  ╔• [Sawada's Daily Newspaper](https://t.me/Kaizoku/234) 
  ╠• [Made by Sky ~](https://t.me/Kaizoku/235)
- ╠• [Plex Updates](https://t.me/Kaizoku/236)
- ╚• [Raya Draws](https://t.me/Kaizoku/255)
+ ╚• [Plex Updates](https://t.me/Kaizoku/236)
 
 -------------------------------------------------
 
 ㅤ
 🤖 Bots Hosted @Kaizoku
 
-*🎬 Anime and Manga*
+**🎬 Anime and Manga**
  ╔• @AniFluidbot 
- ╠• @VerdeRobot
- ╚• @AnimesDownloadRobot
+ ╚• @VerdeRobot
 
-*👤 Anonymity*
- ╚• @AnonimasuRobot
+**👤 Anonymity**
+ ╚• @AnonimasuRobot 
+([ConfessionsKaizoku](https://t.me/Kaizoku/194) only)
 
-*💬 Chat Bots*
+**💬 Chat Bots**
  ╔• @RinRobot
  ╠• @IkarosRobot
  ╚• @NymphRobot
 
-*📰 Channel Management*
- ╚•  @GalactronBot
+**📰 Channel Management**
+ ╚• @GalactronBot
 
-*🔎 Drive Search*
+**🔎 Drive Search**
  ╚• @ArchivistsBot
 
-*✨ GD Utils*
- ╚• @LairaLoreleiRobot
-
-*🎲 Games*
+**🎲 Games**
  ╚• @StalkerGameRobot
 
-*🗄 Github*
+**🗄 Github**
  ╚• @OnePunchGitRobot
 
-*🧑🏻‍💻 Group Management*
+**🧑🏻‍💻 Group Management**
  ╔• @SaitamaRobot
- ╠• @ShigeoRobot
  ╠• @AllMightRobot
+ ╠• @ShigeoRobot
  ╠• @KigyoRobot
  ╠• @HyperRobot
  ╠• @rKigyoBot
+ ╠• @NekoyaRobot
+ ╠• @KanriCodeRobot (Testing only) 
  ╠• @SaitamaShikenRobot (Testing only) 
  ╚• @SaitamaGoRobot (Testing only)
 
-*🏩 Hentai content*
+**🏩 Hentai content**
  ╚• @TheChizuruBot
 
-*☁️ Mirror Bots*
+**☁️ Mirror Bots**
  ╔• @IzunaRobot
  ╠• @EinithiRobot
  ╠• @NyiRobot
  ╚• @PlumRobot
 
-*🎬 Movies*
- ╚• @MoviesDownloadRobot
-
-*🎷 Music*
+**🎷 Music**
  ╔• @SpotifyNowBot
  ╠• @MusicStreamRobot
- ╠• @RitsuMusicBot
- ╚• @DeezerHistoryBot
+ ╚• @RitsuMusicBot
 
-*🕸 Network Bots*
+**🕸 Network Handler**
  ╚• @KaizokuRobot
 
-*⛩ Other Bots*
+**⛩ Other Bots**
  ╔• @AschenteRobot
  ╠• @ShellderRobot
  ╠• @JibrilRobot
@@ -199,20 +199,36 @@ This listing is sorted by Community
  ╠• @SawadaRobot
  ╠• @notdedsecbot
  ╠• @KuromeBot
- ╠• @RyzenShellRobot
+ ╠• @YunYunRobot
+ ╠• @UptimeUserbot
+ ╠• @RestorerRobot
+ ╠• @RepostingRobot
  ╠• @SibylSystemRobot
  ╚• @SibylRobot
 
-*🧲 RSS Feeds*
+**🧲 RSS Feeds**
  ╚• @RSSManiacRobot
 
-*👥 Raid Protection*
- ╚• @GoblinSlayerRobot
+**👥 Raid Protection**
+ ╚• @GoblinSlayerRobot (In rework)
 
-*🖼 Sticker management*
+**🖥 Shell Bots**
+ ╔• @VongolaShellRobot
+ ╠• @VariaShellRobot
+ ╠• @VindiceShellRobot
+ ╠• @VeronicaShellRobot
+ ╠• @VegaShellRobot
+ ╚• @RyzenShellRobot
+
+*🔫 Sibyl System's Guns*
+ ╔• @DominatorRobot
+ ╚• @AssaultDominator
+
+**🖼 Sticker management**
+ ╔• @StickersSyncRobot
  ╚• @StickerStealRobot
 
-*👁‍🗨 Whisper Bot*
+**👁‍🗨 Whisper Bot**
  ╚• @PsstRobot
 
 -------------------------------------------------
@@ -1294,6 +1310,17 @@ Welcome to the food junction! All that goes here is just talks about food, shari
 [📶](buttonurl://t.me/Kaizoku/158:same)
 {image:https://telegra.ph/file/06dbdeaab8070e9b10554.jpg:imageend}
 {🍱 Kaizoku • Gourmet}{*-1001790305748}
+
+
+## 📰 Weeb Central • Anime and Manga News
+/newpost All Anime and Manga news at your fingertips! 
+Stay upto-date and informed with digest posts
+
+*Type:* #SFW #News #Channel #Public #Japanese #Manga #Anime
+[🏠 Group](buttonurl://t.me/AnimeKaizoku)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+{image:https://graph.org/file/dabe0a48507a8f00f5d92.png:imageend}
+{📰 Weeb Central • Anime and Manga News}{*-1001127756447}
 
 
 Cover Images Sheet

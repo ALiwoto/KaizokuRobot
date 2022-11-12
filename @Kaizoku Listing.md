@@ -1096,17 +1096,19 @@ The support group that provides assitance for @AniFluidbot.
 *Type:* #Logs #Channel
 [💬 Group](buttonurl://t.me/TheArchivists)
 [📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
 {image:https://graph.org/file/a3dfc33fac0eeaf8ecef5.jpg:imageend}
 {📓 The Archivists • Moderation Logs}{*-1001158376123}
 
 ## ♙ The Archivists • 0 • Zero
 /newpost Focuses on technical stuff around bots, cloning, rclone, folderclone or anything else you may need over your course of hoarding.
 
-*Join Condition:* You must be a member of @TheArchivists
+*Join Condition:* Must also join [♘ The Archivists • 15 • Seiren](https://t.me/Kaizoku/285)
 
 *Type:* #SFW #English #Support #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001227615225)
 [📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
 {image:https://graph.org/file/def144c8ba69a93cc6ef7.jpg:imageend}
 {♙ The Archivists • 0 • Zero}{*-1001227615225}
 
@@ -1117,6 +1119,7 @@ The support group that provides assitance for @AniFluidbot.
 *Type:* #SFW #News #Channel
 [💬 Group](buttonurl://t.me/TheArchivists)
 [📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
 {image:https://graph.org/file/efb2a9f4242a013fb8a8c.jpg:imageend}
 {♙ The Archivists • 03 • Elemental • News}{*-1001199217611}
 
@@ -1124,11 +1127,12 @@ The support group that provides assitance for @AniFluidbot.
 ## ♙ The Archivists • 04 • Dragonia
 /newpost Dragonia features a search bot that takes your query and searches Archivists, reverting you back with a telegraphed list of results, links and size of all the results.
 
-*Join Condition:* You must be a member of @TheArchivists
+*Join Condition:* Must also join [♘ The Archivists • 15 • Seiren](https://t.me/Kaizoku/285)
 
 *Type:* #SFW #English #Group #Private #Bots
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001345331733)
 [📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
 {image:https://graph.org/file/8f2b129f3f25775e9d1e4.jpg:imageend}
 {♙ The Archivists • 04 • Dragonia}{*-1001345331733}
 
@@ -1136,46 +1140,72 @@ The support group that provides assitance for @AniFluidbot.
 ## ♙ The Archivists • 05 • Gigant
 /newpost A group by @TheArchivists to share your own hoarding collection with people. Plex servers, requests, selling, buying, are all welcome. Gigant lets you promote your own Archivists like network.
 
-*Join Condition:* You must be a member of @TheArchivists
+*Join Condition:* Must also join [♘ The Archivists • 15 • Seiren](https://t.me/Kaizoku/285)
 
 *Type:* #SFW #English #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001437831858)
 [📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
 {image:https://graph.org/file/6597f547e39bfb6df9cf4.jpg:imageend}
 {♙ The Archivists • 05 • Gigant}{*-1001437831858}
 
-## ♖ The Archivists • 07 • Elf
-/newpost Request addition of content, contribute content. You fulfill requests here and you can ensure your access to [Archivists collection](https://archivists.xyz)
+## ♕ The Archivists • 06 • Flugel
+/newpost This group features a usenet bot that is able to search and grab content on reuqest from usenet. 
 
-*Join Condition:* You must be a member of @TheArchivists
+*Join Condition:* Must also join [♘ The Archivists • 15 • Seiren](https://t.me/Kaizoku/285)
+
+*Type:* #SFW #English #Group #Private #Usenet
+[📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001208621001)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
+{image:https://graph.org/file/a3e85020678fa51790900.jpg:imageend}
+{♙ The Archivists • 05 • Gigant}{*-1001208621001}
+
+## ♖ The Archivists • 07 • Elf
+/newpost Require something or want to help fill requests for content that we don't already cover on [the website](https://archivists.xyz). 
+This group is the bulletin board for new request quests.
+
+This group is the bulletin board for new request quests.
+
+*Join Condition:* Must also join [♘ The Archivists • 15 • Seiren](https://t.me/Kaizoku/285)
 
 *Type:* #SFW #English #Group #Private #Requests
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001414928911)
 [📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
 {image:https://graph.org/file/d7b041bcb997235cfad3a.jpg:imageend}
 {♖ The Archivists • 07 • Elf}{*-1001414928911}
 
+## ♗ The Archivists • 08 • Dwarf
+/newpost A channel to track latest vulnerabilities so that you stay informed on what is going on around in the world of tech.
 
-## The Archivists • 08 • Dwarf
-/newpost Google Drive mirroring group featuring NyiRobot
+*Type:* #SFW #English #Security #Channel #Tech
+[📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
+{image:https://graph.org/file/217b33681637063a0cea9.jpg:imageend}
+{♗ The Archivists • 8 • Dwarf}{*-1001406526342}
 
-*Join Condition:* You must be a member of @TheArchivists
+## ♙ The Archivists • 09 • Fairy
+/newpost A need-to-access only group for users that actively contribute to Archivsits. You can request to join but getting accepted is strictly internal.
+
+*Join Condition:* Must also join [♘ The Archivists • 15 • Seiren](https://t.me/Kaizoku/285)
 
 *Type:* #SFW #English #MirrorBot #Group #Private
-[📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001483286240)
+[📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001310680027)
 [📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
 {image:https://graph.org/file/217b33681637063a0cea9.jpg:imageend}
-{♗ The Archivists • 8 • Dwarf}{*-1001483286240}
-
+{♗ The Archivists • 8 • Fairy}{*-1001310680027}
 
 ## The Archivists • 10 • Ex-Machina
 /newpost Google Drive mirroring group featuring EinithiRobot
 
-*Join Condition:* You must be a member of @TheArchivists
+*Join Condition:* Must also join [♘ The Archivists • 15 • Seiren](https://t.me/Kaizoku/285)
 
 *Type:* #SFW #English #MirrorBot #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001151416557)
 [📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
 {image:https://graph.org/file/0a3d4cd3cb27518c856a4.jpg:imageend}
 {♗ The Archivists • 10 • Ex-Machina}{*-1001151416557}
 
@@ -1183,11 +1213,14 @@ The support group that provides assitance for @AniFluidbot.
 ## The Archivists • 12 • Dhampir
 /newpost Google Drive mirroring group featuring PlumRobot
 
-*Join Condition:* You must be a member of @TheArchivists
+This group's mirror bot is mainly for the use of contributors.
+
+*Join Condition:* Must also join [♘ The Archivists • 15 • Seiren](https://t.me/Kaizoku/285)
 
 *Type:* #SFW #English #MirrorBot #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001402400351)
 [📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
 {image:https://graph.org/file/f9adcf70a4a8d85e7f013.jpg:imageend}
 {♘ The Archivists • 12 • Dhampir}{*-1001402400351}
 
@@ -1195,11 +1228,12 @@ The support group that provides assitance for @AniFluidbot.
 ## The Archivists • 13 • Lunamana
 /newpost A small arc around crypto-currency, trading, investing and stocks.
 
-*Join Condition:* You must be a member of @TheArchivists
+*Join Condition:* Must also join [♘ The Archivists • 15 • Seiren](https://t.me/Kaizoku/285)
 
 *Type:* #SFW #English #Crypto #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001245143632)
 [📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
 {image:https://graph.org/file/8c110e20a9129bfefd04b.jpg:imageend}
 {♖ The Archivists • 13 • Lunamana}{*-1001245143632}
 
@@ -1207,23 +1241,36 @@ The support group that provides assitance for @AniFluidbot.
 ## The Archivists • 14 • Werebeast
 /newpost Google Drive mirroring group featuring IzunaRobot
 
-*Join Condition:* You must be a member of @TheArchivists
+*Join Condition:* Must also join [♘ The Archivists • 15 • Seiren](https://t.me/Kaizoku/285)
 
 *Type:* #SFW #English #MirrorBot #Group #Private
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001247808161)
 [📶](buttonurl://t.me/Kaizoku/158:same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
 {image:https://graph.org/file/5b54ef26bdb17ae7ac08c.jpg:imageend}
 {♙ The Archivists • 14 • Werebeast}{*-1001247808161}
 
-## The Archivists • 16 • Imanity • Base
-/newpost Archivists aims to collect, share data and intel on Google Drive and other similar platforms, features upto 16 subgroups, mirror bots, tech support, news and huge library of content.
-It's a must join for those who collect a lot of things online.
+## ♘ The Archivists • 15 • Seiren
+/newpost The main piracy group - all convos, chats, file share and access for the [index content](https://archivists.xyz) are handled here.
 
-*Type:* #SFW #English #Group #Public #Hoarding
+*Type:* #SFW #English #PIracy #Group #Private
+[📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001210520240)
+[📶](buttonurl://t.me/Kaizoku/158:same)
+[OT](buttonurl://t.me/Kaizoku/250:same)
+{image:https://graph.org/file/7339b93bea47b81abc6c7.jpg:imageend}
+{♘ The Archivists • 15 • Seiren}{*-1001210520240}
+
+## The Archivists • 16 • Imanity • Base
+/newpost The public facing and off topic group for all sorts of people - Archivists is mainly a piracy community that provides all sorts of information around the world of tech. This group is mainly for chit-chat and time wasting or to basically vent out, chill out. 
+
+Looking to access our drive collection?
+Join [♘ The Archivists • 15 • Seiren](https://t.me/Kaizoku/285)
+
+*Type:* #SFW #English #Group #OffTopic
 [📓 Rules](buttonurl://t.me/SaitamaRobot?start=-1001248851467)
 [📶](buttonurl://t.me/Kaizoku/158:same)
-[📑 Master Index](buttonurl:https://archivists.xyz)
-[☁️ Worker Index](buttonurl:https://index.archivists.workers.dev/0::same)
+[🗺](buttonurl://t.me/TheArchivist/97:same)
+[🌐 Website](buttonurl:https://archivists.xyz)
 {image:https://graph.org/file/c511c60f03b9d5512445f.jpg:imageend}
 {♔ The Archivists • 16 • Imanity}{*-1001248851467}
 

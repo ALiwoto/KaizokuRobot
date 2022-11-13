@@ -1,7 +1,7 @@
 package getchats
 
 import (
-	"TGChannelGo/utils"
+	"github.com/AnimeKaizoku/KaizokuRobot/utils"
 
 	"github.com/ALiwoto/mdparser/mdparser"
 	"github.com/AnimeKaizoku/ssg/ssg"

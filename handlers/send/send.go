@@ -1,9 +1,9 @@
 package send
 
 import (
-	"TGChannelGo/utils"
 	"bytes"
 	"fmt"
+	"github.com/AnimeKaizoku/KaizokuRobot/utils"
 	"html"
 	"os"
 	"strings"

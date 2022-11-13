@@ -1,7 +1,7 @@
 package help
 
 import (
-	"TGChannelGo/utils"
+	"github.com/AnimeKaizoku/KaizokuRobot/utils"
 
 	"github.com/ALiwoto/mdparser/mdparser"
 	"github.com/PaulSonOfLars/gotgbot/v2"

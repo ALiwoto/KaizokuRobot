@@ -1,7 +1,7 @@
 package sudo
 
 import (
-	"TGChannelGo/utils"
+	"github.com/AnimeKaizoku/KaizokuRobot/utils"
 	"strings"
 
 	"github.com/ALiwoto/mdparser/mdparser"

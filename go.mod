@@ -1,4 +1,4 @@
-module TGChannelGo
+module github.com/AnimeKaizoku/KaizokuRobot
 
 go 1.18
 

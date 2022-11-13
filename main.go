@@ -1,15 +1,15 @@
 package main
 
 import (
-	"TGChannelGo/handlers/add"
-	"TGChannelGo/handlers/getchats"
-	"TGChannelGo/handlers/help"
-	"TGChannelGo/handlers/remove"
-	"TGChannelGo/handlers/send"
-	"TGChannelGo/handlers/start"
-	"TGChannelGo/handlers/sudo"
-	"TGChannelGo/utils"
 	"fmt"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/add"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/getchats"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/help"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/remove"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/send"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/start"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/sudo"
+	"github.com/AnimeKaizoku/KaizokuRobot/utils"
 	"log"
 	"net/http"
 	"os"

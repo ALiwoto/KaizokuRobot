@@ -3,10 +3,11 @@ package send
 import (
 	"bytes"
 	"fmt"
-	"github.com/AnimeKaizoku/KaizokuRobot/utils"
 	"html"
 	"os"
 	"strings"
+
+	"github.com/AnimeKaizoku/KaizokuRobot/utils"
 
 	"github.com/ALiwoto/mdparser/mdparser"
 	"github.com/AnimeKaizoku/ssg/ssg"
@@ -81,7 +82,7 @@ func ReplayLinks(b *gotgbot.Bot, button []tg_md2html.Button) []tg_md2html.Button
 			chat, _ := b.GetChat(container.Value, nil)
 			if container.HasFlag("invite") {
 				myLink, _ := b.CreateChatInviteLink(chat.Id, &gotgbot.CreateChatInviteLinkOpts{
-					Name:               "@kaizoku's generated link",
+					Name:               chat.Title,
 					CreatesJoinRequest: true,
 				})
 				currentButton.Content = myLink.InviteLink
@@ -153,7 +154,7 @@ func SendHandler(b *gotgbot.Bot, ctx *ext.Context) error {
 		if postLink {
 			if approvalLink {
 				myLink, _ := b.CreateChatInviteLink(chat.Id, &gotgbot.CreateChatInviteLinkOpts{
-					Name:               "@kaizoku's generated link",
+					Name:               chat.Title,
 					CreatesJoinRequest: true,
 				})
 				chat.InviteLink = myLink.InviteLink

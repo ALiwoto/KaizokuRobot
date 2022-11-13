@@ -2,6 +2,11 @@ package main
 
 import (
 	"fmt"
+	"log"
+	"net/http"
+	"os"
+
+	"github.com/ALiwoto/mdparser/mdparser"
 	"github.com/AnimeKaizoku/KaizokuRobot/handlers/add"
 	"github.com/AnimeKaizoku/KaizokuRobot/handlers/getchats"
 	"github.com/AnimeKaizoku/KaizokuRobot/handlers/help"
@@ -10,9 +15,6 @@ import (
 	"github.com/AnimeKaizoku/KaizokuRobot/handlers/start"
 	"github.com/AnimeKaizoku/KaizokuRobot/handlers/sudo"
 	"github.com/AnimeKaizoku/KaizokuRobot/utils"
-	"log"
-	"net/http"
-	"os"
 
 	"github.com/PaulSonOfLars/gotgbot/v2"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext"
@@ -49,6 +51,7 @@ func StartBot() error {
 		return err
 	}
 
+	mdparser.AddSecret(token, "$TOKEN")
 	uTmp := ext.NewUpdater(nil)
 	updater := &uTmp
 	err = updater.StartPolling(b, &ext.PollingOpts{

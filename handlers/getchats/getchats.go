@@ -19,8 +19,17 @@ func GetChatsHandler(b *gotgbot.Bot, ctx *ext.Context) error {
 
 	md := mdparser.GetBold("All chats list\n\n")
 	chats := utils.GetAllChats()
-	for _, i := range chats {
-		chat, _ := b.GetChat(i, nil)
+	for _, currentId := range chats {
+		chat, _ := b.GetChat(currentId, nil)
+		if chat == nil {
+			// lets do use a hacky way here to include a dummy chat, instead of
+			// making the bot panic.
+			chat = &gotgbot.Chat{
+				Id:    currentId,
+				Title: "Unknown",
+			}
+		}
+
 		if len(chat.Username) != 0 {
 			md.Bold(chat.Title).Normal("\n" + chat.Username + "\n").Mono(ssg.ToBase10(chat.Id)).ElThis()
 		} else {

@@ -2,40 +2,63 @@ package add
 
 import (
 	"TGChannelGo/utils"
-	"fmt"
-	"github.com/PaulSonOfLars/gotgbot"
-	"github.com/PaulSonOfLars/gotgbot/ext"
-	"github.com/PaulSonOfLars/gotgbot/handlers"
-	"go.uber.org/zap"
-	"strconv"
 	"strings"
+
+	"github.com/ALiwoto/mdparser/mdparser"
+	"github.com/AnimeKaizoku/ssg/ssg"
+	_ "github.com/AnimeKaizoku/ssg/ssg"
+	"github.com/PaulSonOfLars/gotgbot/v2"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext/handlers"
 )
 
-func AddHandler(b ext.Bot, u *gotgbot.Update) error {
-	if !utils.IsUserSudo(u.EffectiveUser.Id) {
-		_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "This command is sudo only", u.EffectiveMessage.MessageId)
-		return nil
+func AddHandler(b *gotgbot.Bot, ctx *ext.Context) error {
+	message := ctx.EffectiveMessage
+	if !utils.IsUserSudo(ctx.EffectiveUser.Id) {
+		return ext.EndGroups
 	}
-	id := strings.Split(u.Message.Text, utils.GetAddCommand()+" ")[1]
-	int_id, err := strconv.Atoi(id)
+
+	idStr := strings.Split(message.Text, utils.GetAddCommand()+" ")[1]
+	targetId := ssg.ToInt64(idStr)
+	if targetId == 0 {
+		txt := mdparser.GetNormal("Can't parse the given id, please check it again.")
+		_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+			ParseMode: gotgbot.ParseModeMarkdownV2,
+		})
+		return ext.EndGroups
+	}
+
+	if utils.IsChatInJson(targetId) {
+		txt := mdparser.GetNormal("User is already present in json.")
+		_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+			ParseMode: gotgbot.ParseModeMarkdownV2,
+		})
+		return ext.EndGroups
+	}
+
+	err := utils.AddId(targetId)
 	if err != nil {
-		_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "Can't parse the given id, Please check it again", u.EffectiveMessage.MessageId)
-		return nil
+		txt := mdparser.GetBold("Failed to add the Id:\n")
+		txt.Mono(err.Error())
+		_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+			ParseMode: gotgbot.ParseModeMarkdownV2,
+		})
+		return ext.EndGroups
 	}
-	if utils.IsChatInJson(int_id) {
-		_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "User is already present in json", u.EffectiveMessage.MessageId)
-		return err
-	}
-	err = utils.AddId(int_id)
-	if err != nil {
-		_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "Got problems while adding the given id", u.EffectiveMessage.MessageId)
-		return err
-	}
-	_, _ = b.ReplyHTML(u.EffectiveChat.Id, fmt.Sprintf("Added id : <code>%v</code> to the json", int_id), u.EffectiveMessage.MessageId)
-	return nil
+
+	txt := mdparser.GetNormal("Added the id ").Mono(ssg.ToBase10(targetId))
+	txt.Normal("to the json.")
+	txt.Mono(err.Error())
+	_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+		ParseMode: gotgbot.ParseModeMarkdownV2,
+	})
+	return ext.EndGroups
 }
 
-func LoadAddHandler(updater *gotgbot.Updater, l *zap.SugaredLogger) {
-	defer l.Info("Start Module Loaded.")
-	updater.Dispatcher.AddHandler(handlers.NewCommand(utils.GetAddCommand(), AddHandler))
+func LoadAddHandler(d *ext.Dispatcher, t []rune) {
+	addCommand := handlers.NewCommand(utils.GetAddCommand(), AddHandler)
+
+	addCommand.Triggers = t
+
+	d.AddHandler(addCommand)
 }

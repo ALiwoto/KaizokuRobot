@@ -2,34 +2,40 @@ package help
 
 import (
 	"TGChannelGo/utils"
-	"fmt"
 
-	"github.com/PaulSonOfLars/gotgbot"
-	"github.com/PaulSonOfLars/gotgbot/ext"
-	"github.com/PaulSonOfLars/gotgbot/handlers"
-	"go.uber.org/zap"
+	"github.com/ALiwoto/mdparser/mdparser"
+	"github.com/PaulSonOfLars/gotgbot/v2"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext/handlers"
 )
 
-func HelpHandler(b ext.Bot, u *gotgbot.Update) error {
-	if !utils.IsUserOwner(u.EffectiveUser.Id) {
-		if !utils.IsUserSudo(u.EffectiveUser.Id) {
-			return nil
-		}
+func HelpHandler(b *gotgbot.Bot, ctx *ext.Context) error {
+	message := ctx.EffectiveMessage
+	user := ctx.EffectiveUser
+	if !utils.IsUserOwner(user.Id) && !utils.IsUserSudo(user.Id) {
+		return ext.ContinueGroups
 	}
-	message := fmt.Sprintf("<b>Help Section of ChannelGoBot</b>\n\n"+
-		"Available commands are as follows: \n\n"+
-		"<code>/%v</code> : <i>The all boring start command.</i>\n\n"+
-		"<code>/%v</code> : <i>The actual useful send command used for sending messages to channels.</i>\n\n"+
-		"<code>/%v</code> : <i>The add command for adding new chat id to json.</i>\n\n"+
-		"<code>/%v</code> : <i>The remove command for removing chat id from json.</i>\n\n"+
-		"<code>/%v</code> : <i>The command which is used to get all chats in json.</i>\n\n"+
-		"<code>/%v</code> : <i>The command which is used to promote sudo users in chats/channels.</i>\n\n"+
-		"<code>/%v</code> : <i>Click on this to get more info about this command.</i>", utils.GetStartCommand(), utils.GetSendCommand(), utils.GetAddCommand(), utils.GetRemoveCommand(), utils.GetGetChatsCommand(), utils.GetSudoCommand(), utils.GetHelpCommand())
-	b.ReplyHTML(u.EffectiveChat.Id, message, u.EffectiveMessage.MessageId)
-	return nil
+
+	txt := mdparser.GetBold("Help section of KaizokuRobot\n\n")
+	txt.Normal("Available commands are as follows: \n\n")
+	txt.Mono(utils.GetStartCommand()).Normal(" : ").Italic("The all boring start command.\n\n")
+	txt.Mono(utils.GetSendCommand()).Normal(" : ").Italic("The actual useful send command used for sending messages to channels.\n\n")
+	txt.Mono(utils.GetAddCommand()).Normal(" : ").Italic("The add command for adding new chat id to json.\n\n")
+	txt.Mono(utils.GetRemoveCommand()).Normal(" : ").Italic("The remove command for removing chat id from json.\n\n")
+	txt.Mono(utils.GetGetChatsCommand()).Normal(" : ").Italic("The command which is used to get all chats in json.\n\n")
+	txt.Mono(utils.GetSudoCommand()).Normal(" : ").Italic("The command which is used to promote sudo users in chats/channels.\n\n")
+	txt.Mono(utils.GetHelpCommand()).Normal(" : ").Italic("Click on this to get more info about this command.\n\n")
+
+	_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+		ParseMode: gotgbot.ParseModeMarkdownV2,
+	})
+	return ext.EndGroups
 }
 
-func LoadHelpHandler(updater *gotgbot.Updater, l *zap.SugaredLogger) {
-	defer l.Info("Start Module Loaded.")
-	updater.Dispatcher.AddHandler(handlers.NewCommand(utils.GetHelpCommand(), HelpHandler))
+func LoadHelpHandler(d *ext.Dispatcher, t []rune) {
+	getHelpCommand := handlers.NewCommand(utils.GetHelpCommand(), HelpHandler)
+
+	getHelpCommand.Triggers = t
+
+	d.AddHandler(getHelpCommand)
 }

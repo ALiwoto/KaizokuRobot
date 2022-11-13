@@ -2,40 +2,64 @@ package remove
 
 import (
 	"TGChannelGo/utils"
-	"fmt"
-	"github.com/PaulSonOfLars/gotgbot"
-	"github.com/PaulSonOfLars/gotgbot/ext"
-	"github.com/PaulSonOfLars/gotgbot/handlers"
-	"go.uber.org/zap"
-	"strconv"
 	"strings"
+
+	"github.com/ALiwoto/mdparser/mdparser"
+	"github.com/AnimeKaizoku/ssg/ssg"
+	"github.com/PaulSonOfLars/gotgbot/v2"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext/handlers"
 )
 
-func RemoveHandler(b ext.Bot, u *gotgbot.Update) error {
-	if !utils.IsUserSudo(u.EffectiveUser.Id) {
-		_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "This command is sudo only", u.EffectiveMessage.MessageId)
-		return nil
+func RemoveHandler(b *gotgbot.Bot, ctx *ext.Context) error {
+	message := ctx.EffectiveMessage
+	user := ctx.EffectiveUser
+	if !utils.IsUserOwner(user.Id) && !utils.IsUserSudo(user.Id) {
+		return ext.EndGroups
 	}
-	id := strings.Split(u.Message.Text, utils.GetRemoveCommand()+" ")[1]
-	int_id, err := strconv.Atoi(id)
+
+	idStr := strings.Split(message.Text, utils.GetAddCommand()+" ")[1]
+	targetId := ssg.ToInt64(idStr)
+	if targetId == 0 {
+		txt := mdparser.GetNormal("Can't parse the given id, please check it again.")
+		_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+			ParseMode: gotgbot.ParseModeMarkdownV2,
+		})
+		return ext.EndGroups
+	}
+
+	if !utils.IsChatInJson(targetId) {
+		txt := mdparser.GetNormal("User is not present in json.")
+		_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+			ParseMode: gotgbot.ParseModeMarkdownV2,
+		})
+		return ext.EndGroups
+	}
+
+	err := utils.DelId(targetId)
 	if err != nil {
-		_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "Can't parse the given id, Please check it again", u.EffectiveMessage.MessageId)
-		return nil
+		txt := mdparser.GetBold("Failed to delete the Id:\n")
+		txt.Mono(err.Error())
+		_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+			ParseMode: gotgbot.ParseModeMarkdownV2,
+		})
+		return ext.EndGroups
 	}
-	if !utils.IsChatInJson(int_id) {
-		_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "User is not present in json", u.EffectiveMessage.MessageId)
-		return err
-	}
-	err = utils.DelId(int_id)
-	if err != nil {
-		_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "Got problems while deleting the given id", u.EffectiveMessage.MessageId)
-		return err
-	}
-	_, _ = b.ReplyHTML(u.EffectiveChat.Id, fmt.Sprintf("Deleted id : <code>%v</code> from the json", int_id), u.EffectiveMessage.MessageId)
-	return nil
+
+	txt := mdparser.GetNormal("Deleted the id ").Mono(ssg.ToBase10(targetId))
+	txt.Normal("from the json.")
+	txt.Mono(err.Error())
+	_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+		ParseMode: gotgbot.ParseModeMarkdownV2,
+	})
+	return ext.EndGroups
+
 }
 
-func LoadRemoveHandler(updater *gotgbot.Updater, l *zap.SugaredLogger) {
-	defer l.Info("Start Module Loaded.")
-	updater.Dispatcher.AddHandler(handlers.NewCommand(utils.GetRemoveCommand(), RemoveHandler))
+func LoadRemoveHandler(d *ext.Dispatcher, t []rune) {
+	removeCommand := handlers.NewCommand(utils.GetRemoveCommand(), RemoveHandler)
+
+	removeCommand.Triggers = t
+
+	d.AddHandler(removeCommand)
 }

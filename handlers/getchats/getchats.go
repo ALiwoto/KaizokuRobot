@@ -2,35 +2,42 @@ package getchats
 
 import (
 	"TGChannelGo/utils"
-	"fmt"
-	"github.com/PaulSonOfLars/gotgbot"
-	"github.com/PaulSonOfLars/gotgbot/ext"
-	"github.com/PaulSonOfLars/gotgbot/handlers"
-	"go.uber.org/zap"
+
+	"github.com/ALiwoto/mdparser/mdparser"
+	"github.com/AnimeKaizoku/ssg/ssg"
+	"github.com/PaulSonOfLars/gotgbot/v2"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext/handlers"
 )
 
-func GetChats(b ext.Bot, u *gotgbot.Update) error {
-	var message string
-	message = "<b>All chats list</b>\n\n"
-	if !utils.IsUserOwner(u.EffectiveUser.Id) {
-		if !utils.IsUserSudo(u.EffectiveUser.Id) {
-			return nil
-		}
+func GetChatsHandler(b *gotgbot.Bot, ctx *ext.Context) error {
+	message := ctx.EffectiveMessage
+	user := ctx.EffectiveUser
+	if !utils.IsUserOwner(user.Id) && !utils.IsUserSudo(user.Id) {
+		return ext.ContinueGroups
 	}
+
+	md := mdparser.GetBold("All chats list\n\n")
 	chats := utils.GetAllChats()
 	for _, i := range chats {
-		chat, _ := b.GetChat(i)
+		chat, _ := b.GetChat(i, nil)
 		if len(chat.Username) != 0 {
-			message += fmt.Sprintf("<b>%v</b>\n%v\n<code>%v</code>\n", chat.Title, chat.Username, chat.Id)
+			md.Bold(chat.Title).Normal("\n" + chat.Username + "\n").Mono(ssg.ToBase10(chat.Id)).ElThis()
 		} else {
-			message += fmt.Sprintf("<b>%v</b>\n<code>%v</code>\n\n", chat.Title, chat.Id)
+			md.Bold(chat.Title).Mono("\n" + ssg.ToBase10(chat.Id)).Normal("\n\n")
 		}
 	}
-	_, _ = b.ReplyHTML(u.EffectiveChat.Id, message, u.EffectiveMessage.MessageId)
-	return nil
+
+	_, _ = message.Reply(b, md.ToString(), &gotgbot.SendMessageOpts{
+		ParseMode: gotgbot.ParseModeMarkdownV2,
+	})
+	return ext.EndGroups
 }
 
-func LoadGetChatsHandler(updater *gotgbot.Updater, l *zap.SugaredLogger) {
-	defer l.Info("GetChats Module Loaded.")
-	updater.Dispatcher.AddHandler(handlers.NewCommand(utils.GetGetChatsCommand(), GetChats))
+func LoadGetChatsHandler(d *ext.Dispatcher, t []rune) {
+	getChatsCommand := handlers.NewCommand(utils.GetGetChatsCommand(), GetChatsHandler)
+
+	getChatsCommand.Triggers = t
+
+	d.AddHandler(getChatsCommand)
 }

@@ -1,75 +1,99 @@
 package sudo
 
 import (
-	"TGChannelGo/utils"
-	"fmt"
+	"github.com/AnimeKaizoku/KaizokuRobot/utils"
 	"strings"
 
-	"github.com/PaulSonOfLars/gotgbot"
-	"github.com/PaulSonOfLars/gotgbot/ext"
-	"github.com/PaulSonOfLars/gotgbot/handlers"
-	"go.uber.org/zap"
+	"github.com/ALiwoto/mdparser/mdparser"
+	"github.com/AnimeKaizoku/ssg/ssg"
+	"github.com/PaulSonOfLars/gotgbot/v2"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext/handlers"
 )
 
-func SelfPromoteHandler(b ext.Bot, u *gotgbot.Update) error {
-	if !utils.IsUserOwner(u.EffectiveUser.Id) {
-		if !utils.IsUserSudo(u.EffectiveUser.Id) {
-			return gotgbot.EndGroups{}
-		}
+func SelfPromoteHandler(b *gotgbot.Bot, ctx *ext.Context) error {
+	user := ctx.EffectiveUser
+	message := ctx.EffectiveMessage
+	chat := ctx.EffectiveChat
+	if !utils.IsUserOwner(user.Id) && !utils.IsUserSudo(user.Id) {
+		return ext.EndGroups
 	}
-	args := strings.Split(u.EffectiveMessage.Text, " ")
-	if u.EffectiveChat.Type == "private" && len(args) == 1 {
-		_, err := u.EffectiveMessage.ReplyText("You can't promote yourself in a private chat")
+
+	args := strings.Split(message.Text, " ")
+	if chat.Type == "private" && len(args) == 1 {
+		_, err := message.Reply(b, "You can't promote yourself in a private chat", nil)
 		return err
 	}
+
 	if len(args) > 1 {
-		en := args[1]
-		chat, err := utils.GetChat(en, b)
+		targetChat := args[1]
+		chat, err := utils.GetChat(targetChat, b)
 		if err != nil {
-			_, err := u.EffectiveMessage.ReplyText(fmt.Sprintf("Error for %s: %s", en, err.Error()))
+			txt := mdparser.GetNormal("Error for " + targetChat + ": \n")
+			txt.Mono(err.Error())
+			_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+				ParseMode: gotgbot.ParseModeMarkdownV2,
+			})
 			return err
 		}
+
 		if chat.Type != "private" {
-			err := promote(chat, u.EffectiveUser.Id, b)
+			err := promote(b, chat, user.Id)
 			if err != nil {
-				_, err := u.EffectiveMessage.ReplyText(fmt.Sprintf("Error: %s", err.Error()))
+				txt := mdparser.GetNormal("Error when promoting in " + targetChat + ": \n")
+				txt.Mono(err.Error())
+				_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+					ParseMode: gotgbot.ParseModeMarkdownV2,
+				})
 				return err
 			}
 		}
 
 	} else {
-		err := promote(u.EffectiveChat, u.EffectiveUser.Id, b)
+		err := promote(b, chat, user.Id)
 		if err != nil {
-			_, err := u.EffectiveMessage.ReplyText(fmt.Sprintf("Error: %s", err.Error()))
-			return err
+			txt := mdparser.GetNormal("Error when promoting in " + ssg.ToBase10(chat.Id) + ": \n")
+			txt.Mono(err.Error())
+			_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+				ParseMode: gotgbot.ParseModeMarkdownV2,
+			})
+			return ext.EndGroups
 		}
 	}
-	_, err := u.EffectiveMessage.ReplyText("Promoted!")
+
+	_, _ = message.Reply(b, "Promoted!", nil)
+	return ext.EndGroups
+}
+
+func promote(b *gotgbot.Bot, chat *gotgbot.Chat, userId int64) error {
+	selfMem, err := b.GetChatMember(chat.Id, b.Id, nil)
+	if err != nil {
+		return err
+	}
+
+	me := selfMem.MergeChatMember()
+
+	_, err = chat.PromoteMember(b, userId, &gotgbot.PromoteChatMemberOpts{
+		IsAnonymous:         me.IsAnonymous,
+		CanManageChat:       me.CanManageChat,
+		CanPostMessages:     me.CanPostMessages,
+		CanEditMessages:     me.CanEditMessages,
+		CanDeleteMessages:   me.CanDeleteMessages,
+		CanManageVideoChats: me.CanManageVideoChats,
+		CanRestrictMembers:  me.CanRestrictMembers,
+		CanPromoteMembers:   me.CanPromoteMembers,
+		CanChangeInfo:       me.CanChangeInfo,
+		CanInviteUsers:      me.CanInviteUsers,
+		CanPinMessages:      me.CanPinMessages,
+	})
+
 	return err
 }
 
-func promote(chat *ext.Chat, userId int, b ext.Bot) error {
-	selfMem, err := b.GetChatMember(chat.Id, b.Id)
-	if err != nil {
-		return err
-	}
-	rq := b.NewSendablePromoteChatMember(chat.Id, userId)
-	rq.CanChangeInfo = selfMem.CanChangeInfo
-	rq.CanDeleteMessages = selfMem.CanDeleteMessages
-	rq.CanEditMessages = selfMem.CanEditMessages
-	rq.CanInviteUsers = selfMem.CanInviteUsers
-	rq.CanPinMessages = selfMem.CanPinMessages
-	rq.CanPostMessages = selfMem.CanPostMessages
-	rq.CanPromoteMembers = selfMem.CanPromoteMembers
-	rq.CanRestrictMembers = selfMem.CanRestrictMembers
-	_, err = rq.Send()
-	if err != nil {
-		return err
-	}
-	return nil
-}
+func LoadSudoHandler(d *ext.Dispatcher, t []rune) {
+	sudoCommand := handlers.NewCommand(utils.GetSudoCommand(), SelfPromoteHandler)
 
-func LoadSudoHandler(updater *gotgbot.Updater, l *zap.SugaredLogger) {
-	defer l.Info("Sudo Module Loaded.")
-	updater.Dispatcher.AddHandler(handlers.NewCommand(utils.GetSudoCommand(), SelfPromoteHandler))
+	sudoCommand.Triggers = t
+
+	d.AddHandler(sudoCommand)
 }

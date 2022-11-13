@@ -4,16 +4,15 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
-	"io/ioutil"
 	"log"
 	"math/rand"
 	"net/http"
-	"net/url"
 	"os"
 	"strings"
 	"time"
 
-	"github.com/PaulSonOfLars/gotgbot/ext"
+	"github.com/AnimeKaizoku/ssg/ssg"
+	"github.com/PaulSonOfLars/gotgbot/v2"
 )
 
 const ConfigJsonPath string = "config.json"
@@ -22,11 +21,11 @@ const CommandConfigPath = "commands.json"
 var letters = []rune("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ")
 
 type ConfigJson struct {
-	BOT_TOKEN  string `json:"bot_token"`
-	SUDO_USERS []int  `json:"sudo_users"`
-	OWNER_ID   int    `json:"owner_id"`
-	CHANNEL_ID int    `json:"channel_id"`
-	Monitor    []int  `json:"chats_to_monitor"`
+	BOT_TOKEN  string  `json:"bot_token"`
+	SUDO_USERS []int64 `json:"sudo_users"`
+	OWNER_ID   int64   `json:"owner_id"`
+	CHANNEL_ID int64   `json:"channel_id"`
+	Monitor    []int64 `json:"chats_to_monitor"`
 }
 
 type CommandJson struct {
@@ -43,7 +42,7 @@ var CommandConfig *CommandJson = InitCommandConfig()
 var Config *ConfigJson = InitConfig()
 
 func InitCommandConfig() *CommandJson {
-	file, err := ioutil.ReadFile(CommandConfigPath)
+	file, err := os.ReadFile(CommandConfigPath)
 	if err != nil {
 		log.Fatal("Config File Bad, exiting!")
 	}
@@ -57,7 +56,7 @@ func InitCommandConfig() *CommandJson {
 }
 
 func InitConfig() *ConfigJson {
-	file, err := ioutil.ReadFile(ConfigJsonPath)
+	file, err := os.ReadFile(ConfigJsonPath)
 	if err != nil {
 		log.Fatal("Config File Bad, exiting!")
 	}
@@ -76,13 +75,13 @@ func GetBotToken() string {
 	return Config.BOT_TOKEN
 }
 
-func AddId(id int) error {
-	file, err := ioutil.ReadFile(ConfigJsonPath)
+func AddId(id int64) error {
+	file, err := os.ReadFile(ConfigJsonPath)
 	if err != nil {
 		log.Fatal("Config File Bad, exiting!")
 	}
 	if !Exists(ConfigJsonPath + ".bak") {
-		err = ioutil.WriteFile(ConfigJsonPath+".bak", file, 0644)
+		_ = os.WriteFile(ConfigJsonPath+".bak", file, 0644)
 	}
 	var TempConfig ConfigJson
 	err = json.Unmarshal(file, &TempConfig)
@@ -91,29 +90,29 @@ func AddId(id int) error {
 	}
 	TempConfig.Monitor = append(TempConfig.Monitor, id)
 	Config.Monitor = TempConfig.Monitor
-	newfile, _ := json.MarshalIndent(&TempConfig, "", "   ")
-	err = ioutil.WriteFile(ConfigJsonPath, newfile, 0644)
+	newFile, _ := json.MarshalIndent(&TempConfig, "", "   ")
+	err = os.WriteFile(ConfigJsonPath, newFile, 0644)
 	if err != nil {
-		file, err := ioutil.ReadFile(ConfigJsonPath + ".bak")
+		file, err := os.ReadFile(ConfigJsonPath + ".bak")
 		if err != nil {
 			log.Println("Backup Config File Bad, exiting!")
 
 		}
-		ioutil.WriteFile(ConfigJsonPath, file, 0644)
+		os.WriteFile(ConfigJsonPath, file, 0644)
 		return err
 	} else {
 		return nil
 	}
 }
 
-func DelId(id int) error {
+func DelId(id int64) error {
 	var index int
-	file, err := ioutil.ReadFile(ConfigJsonPath)
+	file, err := os.ReadFile(ConfigJsonPath)
 	if err != nil {
 		log.Fatal("Config File Bad, exiting!")
 	}
 	if !Exists(ConfigJsonPath + ".bak") {
-		err = ioutil.WriteFile(ConfigJsonPath+".bak", file, 0644)
+		_ = os.WriteFile(ConfigJsonPath+".bak", file, 0644)
 	}
 	var TempConfig ConfigJson
 	err = json.Unmarshal(file, &TempConfig)
@@ -127,37 +126,37 @@ func DelId(id int) error {
 	}
 	fmt.Println(index)
 	fmt.Println(TempConfig.Monitor)
-	TempConfig.Monitor = removeelement(TempConfig.Monitor, index)
+	TempConfig.Monitor = removeElement(TempConfig.Monitor, index)
 	Config.Monitor = TempConfig.Monitor
-	newfile, _ := json.MarshalIndent(&TempConfig, "", "   ")
-	err = ioutil.WriteFile(ConfigJsonPath, newfile, 0644)
+	newFile, _ := json.MarshalIndent(&TempConfig, "", "   ")
+	err = os.WriteFile(ConfigJsonPath, newFile, 0644)
 	if err != nil {
-		file, err := ioutil.ReadFile(ConfigJsonPath + ".bak")
+		file, err := os.ReadFile(ConfigJsonPath + ".bak")
 		if err != nil {
 			log.Println("Backup Config File Bad, exiting!")
 
 		}
-		ioutil.WriteFile(ConfigJsonPath, file, 0644)
+		os.WriteFile(ConfigJsonPath, file, 0644)
 		return err
 	} else {
 		return nil
 	}
 }
 
-func removeelement(s []int, i int) []int {
+func removeElement(s []int64, i int) []int64 {
 	s[len(s)-1], s[i] = s[i], s[len(s)-1]
 	return s[:len(s)-1]
 }
 
-func IsUserOwner(userId int) bool {
+func IsUserOwner(userId int64) bool {
 	return Config.OWNER_ID == userId
 }
 
-func GetAllChats() []int {
+func GetAllChats() []int64 {
 	return Config.Monitor
 }
 
-func IsUserSudo(userId int) bool {
+func IsUserSudo(userId int64) bool {
 	for _, i := range Config.SUDO_USERS {
 		if i == userId {
 			return true
@@ -166,7 +165,7 @@ func IsUserSudo(userId int) bool {
 	return false
 }
 
-func GetChannelId() int {
+func GetChannelId() int64 {
 	return Config.CHANNEL_ID
 }
 
@@ -196,7 +195,7 @@ func DownloadFile(fileName string, sub string) (string, error) {
 	return fileName, err
 }
 
-func randSeq(n int) string {
+func RandSeq(n int) string {
 	b := make([]rune, n)
 	for i := range b {
 		b[i] = letters[rand.Intn(len(letters))]
@@ -213,13 +212,13 @@ func Exists(name string) bool {
 	return true
 }
 
-func IsChatInJson(chatID int) bool {
+func IsChatInJson(chatID int64) bool {
 	for _, i := range Config.Monitor {
 		if i == chatID {
 			return true
 		}
 	}
-	InitConfig()
+
 	return false
 }
 
@@ -263,15 +262,22 @@ func GetStringInBetweenTwoString(str string, startS string, endS string) (result
 	return result, true
 }
 
-func GetChat(chatId string, b ext.Bot) (*ext.Chat, error) {
-	v := url.Values{}
-	v.Add("chat_id", chatId)
+func GetChat(chatId string, b *gotgbot.Bot) (*gotgbot.Chat, error) {
+	v := map[string]string{}
+	theId := ssg.ToInt64(chatId)
+	if theId == 0 {
+		if !strings.HasPrefix(chatId, "@") {
+			chatId = "@" + chatId
+		}
+	}
 
-	r, err := b.Get("getChat", v)
+	v["chat_id"] = chatId
+
+	r, err := b.Request("getChat", v, nil, nil)
 	if err != nil {
 		return nil, err
 	}
 
-	c := ext.Chat{Bot: b}
+	c := gotgbot.Chat{}
 	return &c, json.Unmarshal(r, &c)
 }

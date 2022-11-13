@@ -1,25 +1,33 @@
 package start
 
 import (
-	"TGChannelGo/utils"
-	"github.com/PaulSonOfLars/gotgbot"
-	"github.com/PaulSonOfLars/gotgbot/ext"
-	"github.com/PaulSonOfLars/gotgbot/handlers"
-	"go.uber.org/zap"
+	"github.com/AnimeKaizoku/KaizokuRobot/utils"
+
+	"github.com/ALiwoto/mdparser/mdparser"
+	"github.com/PaulSonOfLars/gotgbot/v2"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext/handlers"
 )
 
-func StartHandler(b ext.Bot, u *gotgbot.Update) error {
-	if !utils.IsUserOwner(u.EffectiveUser.Id) {
-		if !utils.IsUserSudo(u.EffectiveUser.Id) {
-			return nil
-		}
+func StartHandler(b *gotgbot.Bot, ctx *ext.Context) error {
+	user := ctx.EffectiveUser
+	message := ctx.EffectiveMessage
+	if !utils.IsUserOwner(user.Id) && !utils.IsUserSudo(user.Id) {
+		return ext.EndGroups
 	}
-	_, _ = b.ReplyMarkdownV2(u.EffectiveChat.Id, "Yes bot is active and you can use it", u.EffectiveMessage.MessageId)
 
-	return nil
+	txt := mdparser.GetNormal("Can't parse the given id, please check it again.")
+	_, _ = message.Reply(b, txt.ToString(), &gotgbot.SendMessageOpts{
+		ParseMode: gotgbot.ParseModeMarkdownV2,
+	})
+
+	return ext.EndGroups
 }
 
-func LoadStartHandler(updater *gotgbot.Updater, l *zap.SugaredLogger) {
-	defer l.Info("Start Module Loaded.")
-	updater.Dispatcher.AddHandler(handlers.NewCommand(utils.GetStartCommand(), StartHandler))
+func LoadStartHandler(d *ext.Dispatcher, t []rune) {
+	startCommand := handlers.NewCommand(utils.GetStartCommand(), StartHandler)
+
+	startCommand.Triggers = t
+
+	d.AddHandler(startCommand)
 }

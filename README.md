@@ -1,4 +1,4 @@
-# TGChannelGo
+# github.com/AnimeKaizoku/KaizokuRobot
 
 Yet another channel poster bot to send messages with buttons and other formattings for Telegram.
 

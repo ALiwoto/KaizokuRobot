@@ -1,35 +1,36 @@
 package main
 
 import (
-	"TGChannelGo/handlers/add"
-	"TGChannelGo/handlers/getchats"
-	"TGChannelGo/handlers/help"
-	"TGChannelGo/handlers/remove"
-	"TGChannelGo/handlers/send"
-	"TGChannelGo/handlers/start"
-	"TGChannelGo/handlers/sudo"
-	"TGChannelGo/utils"
+	"fmt"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/add"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/getchats"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/help"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/remove"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/send"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/start"
+	"github.com/AnimeKaizoku/KaizokuRobot/handlers/sudo"
+	"github.com/AnimeKaizoku/KaizokuRobot/utils"
+	"log"
 	"net/http"
 	"os"
-	"time"
 
-	"github.com/PaulSonOfLars/gotgbot"
-	"github.com/PaulSonOfLars/gotgbot/ext"
+	"github.com/PaulSonOfLars/gotgbot/v2"
+	"github.com/PaulSonOfLars/gotgbot/v2/ext"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )
 
-func RegisterAllHandlers(updater *gotgbot.Updater, l *zap.SugaredLogger) {
-	sudo.LoadSudoHandler(updater, l)
-	start.LoadStartHandler(updater, l)
-	send.LoadSendHandler(updater, l)
-	getchats.LoadGetChatsHandler(updater, l)
-	add.LoadAddHandler(updater, l)
-	remove.LoadRemoveHandler(updater, l)
-	help.LoadHelpHandler(updater, l)
+func RegisterAllHandlers(d *ext.Dispatcher, triggers []rune) {
+	sudo.LoadSudoHandler(d, triggers)
+	start.LoadStartHandler(d, triggers)
+	send.LoadSendHandler(d, triggers)
+	getchats.LoadGetChatsHandler(d, triggers)
+	add.LoadAddHandler(d, triggers)
+	remove.LoadRemoveHandler(d, triggers)
+	help.LoadHelpHandler(d, triggers)
 }
 
-func main() {
+func StartBot() error {
 	cfg := zap.NewProductionEncoderConfig()
 	cfg.EncodeLevel = zapcore.CapitalLevelEncoder
 	cfg.EncodeTime = zapcore.RFC3339TimeEncoder
@@ -37,29 +38,38 @@ func main() {
 	defer logger.Sync() // flushes buffer, if any
 	l := logger.Sugar()
 	token := utils.GetBotToken()
-	l.Info("Starting Bot.")
-	l.Info("token: ", token)
-	updater, err := gotgbot.NewUpdater(logger, token)
-	l.Info("Got Updater")
-	updater.UpdateGetter = ext.BaseRequester{
-		Client: http.Client{
-			Transport:     nil,
-			CheckRedirect: nil,
-			Jar:           nil,
-			Timeout:       time.Second * 65,
+
+	b, err := gotgbot.NewBot(token, &gotgbot.BotOpts{
+		Client: http.Client{},
+		DefaultRequestOpts: &gotgbot.RequestOpts{
+			Timeout: 6 * gotgbot.DefaultTimeout,
 		},
-		ApiUrl: ext.ApiUrl,
-	}
-	updater.Bot.Requester = ext.BaseRequester{Client: http.Client{Timeout: time.Second * 65}}
+	})
 	if err != nil {
-		l.Fatalw("failed to start updater", zap.Error(err))
+		return err
 	}
-	l.Info("Starting updater")
-	RegisterAllHandlers(updater, l)
-	err = updater.StartPolling()
+
+	uTmp := ext.NewUpdater(nil)
+	updater := &uTmp
+	err = updater.StartPolling(b, &ext.PollingOpts{
+		DropPendingUpdates: true,
+	})
 	if err != nil {
-		l.Fatalw("failed to start polling", zap.Error(err))
+		return err
 	}
-	l.Info("Started Updater.")
+
+	l.Info(fmt.Sprintf("%s has started | ID: %d", b.Username, b.Id))
+
+	RegisterAllHandlers(updater.Dispatcher, []rune{'/', '!'})
+
 	updater.Idle()
+	return nil
+}
+
+func main() {
+	err := StartBot()
+	if err != nil {
+		log.Fatal(err)
+	}
+
 }
